@@ -4,21 +4,30 @@
 <head>
 	<meta charset="UTF-8">
 	<title>TowardsGreen.org</title>
-	<Link rel="stylesheet" href="css/style.css" />
+	<Link rel="stylesheet" href="css/nav.css" />
 	<Link rel="icon" href="images/icon.png">
 </head>
 
 <body>
 
-<header>
 <nav>
-	<img class="logo" src ="images/logo.png" alt = "Logo">
-	<a href="index.html">Home</a>
-	<a href="Joinnow.html"> Join Now</a>
-	<a href="articles.html">Articles</a>
-	<a href="about.html">About Us</a>
+    <ul class="nav nav-right nav-fixed">
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="articles.html">Articles</a></li>
+        <li class="dropdown">
+            <a href="#" class="dropbtn">Issues</a>
+            <div class="dropdown-content">   
+              	<a href="globalwarming.html">Global Warming</a>
+                <a href="climatechange.html">Climate Change</a>
+                <a href="pollution.html">Pollution</a>
+                <a href="deforestation.html">Deforestation</a>
+             </div>
+        </li>
+        <li class="home"><a href="index.html">Home</a></li>
+            <img class="logo" src ="images/logo.png" alt = "Logo" height = "160" >
+    </ul>
 </nav>
-</header>
+
 <div class = "banner about">
   <blockquote>
         <p>&ldquo;Calling the earth activists, lightworkers, spiritual warriors. Stay awake. Take action. Spread awareness.&rdquo;</p>
