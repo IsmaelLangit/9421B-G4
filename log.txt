@@ -1,0 +1,967 @@
+commit 8bb764d580b22050ddfc0333af29b9fbf7b36265
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 19:28:49 2017 -1200
+
+    edited the html file
+
+commit 53ddea759590fa661ff5a3848c460599146c3e74
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 19:27:25 2017 -1200
+
+    edited the html file
+
+commit 05646244a2d6850c87f1b728319462f08071f17e
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 19:25:59 2017 -1200
+
+    edited the photos and the html file
+
+commit d56bb6f6b18c72efe22de930d5ff5bdf5b84f5d0
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 19:22:24 2017 -1200
+
+    edited pictures and the html file
+
+commit c8390b15706e023f12f47ba49ab9866150edc063
+Merge: f56ef0c 78eb739
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 14:59:36 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 78eb73921a091f2525033ade2b9f9b7d8efc35f9
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 14:56:48 2017 +0800
+
+    Fixed 1 error
+
+commit f56ef0c40199c0c27d06e10289ed3da0a764decb
+Merge: ad32f32 1347d67
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 14:56:27 2017 +0800
+
+    Checked and edited the spelling and grammar in climatechange.html
+
+commit 1347d67a52e903cfbde5657a8496bbee0a9aeed4
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 14:52:18 2017 +0800
+
+    Fixed errors
+
+commit ad32f3250faabc2209bc3ed9b7693efb50b819e2
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 14:52:02 2017 +0800
+
+    Checked and edited the spelling and grammar in deforestation.html
+
+commit a7f6b0674c9ae0b5e090360e8ef3e8d8bd951192
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 14:43:50 2017 +0800
+
+    Checked and edited the spelling and grammar in climatechange.html
+
+commit ead09040bd57dbf6a30392fb91b9b704b021129e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 14:40:32 2017 +0800
+
+    Added missing close tag
+
+commit 4b9507c68e2cc21d01223622f68d82fdf0ee0028
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 14:38:41 2017 +0800
+
+    Fixed error in code
+
+commit 93bb06c38b5f8172cff49394b6842fee75a11bc7
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 14:08:23 2017 +0800
+
+    Edited content
+
+commit 34620e6a03765445c141c0b6e82f9f794288584b
+Merge: 9005fd1 35d97c1
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 14:06:45 2017 +0800
+
+    Removed duplicates
+
+commit 35d97c1edcd9cdad29c0025e97866b3f417d90a9
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 5 14:01:07 2017 +0800
+
+    Corrected few spellings
+
+commit c75998b0ad0c785b32ef85496b957f454434de81
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 5 13:58:36 2017 +0800
+
+    Corrected few spellings
+
+commit 9005fd1e15d6def68f4cabbb81a6d8dab9e6cddc
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 13:58:20 2017 +0800
+
+    Modified contents
+
+commit 3872f55286fc6c860bf2e8cbfa1d57e14e0cab2a
+Merge: 701e623 2656184
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 13:56:10 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+     To be edited
+
+commit 701e6239e472fe28a02fb65f26b50454cca21247
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 13:55:49 2017 +0800
+
+    Modified contents
+
+commit 26561840758674e6d3e8b8f18c57c52e0937bb2b
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 5 13:53:23 2017 +0800
+
+    I corrected few wrong spellings
+
+commit da014e8e71cfb76600a50c18e2b3324e4e9b528e
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 5 13:47:10 2017 +0800
+
+    Corrected spellings
+
+commit 6ef25f924cf52a4d25399f2e3682bc963d04f3e8
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 13:23:26 2017 +0800
+
+    Organize content
+
+commit ef59fde89dedf97f45f63a0d59e02a1de04ef74c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 13:04:04 2017 +0800
+
+    Made a folder for banner background - to be used in css
+
+commit a684879c56e70dae27a8fd61293e816649411a00
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 12:48:59 2017 +0800
+
+    made text files for references
+
+commit 8451644d1c07c85eaa40efd4edf2e671f949319e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 12:38:56 2017 +0800
+
+    Deleted some pictures, and I made sub folders
+
+commit ec17e0638ea081a2fc9d40fa3036271c5ce0fe40
+Merge: 6826ea6 f47b578
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 12:22:35 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 6826ea6dbb0dab942e4ff9f80f5c5dcc09ee1569
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 12:22:11 2017 -1200
+
+    Added new photos and articles
+
+commit 3cbf2fcdc7422b516d2b49da284596726aa0d065
+Merge: e216cbe 08c3fa1
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 11:57:54 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit e216cbea5178811300e3df7a8edfbcc176e75bca
+Merge: e9a9a5c 1101f12
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 11:56:31 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit e9a9a5cdfcdeb20cd33fb6d61d074c2e9eabaf01
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 11:55:52 2017 -1200
+
+    Removed the unnecessary files when merged conflict happened
+
+commit f47b5780fc0c4759a40efa18618c368682397320
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 12:02:06 2017 +0800
+
+    Deleted doc file
+
+commit 08c3fa119d236fbe470eab1d1631792afebe9e6e
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 11:58:15 2017 +0800
+
+    Updated my part
+
+commit 1101f120531f42c5224ba9181d00bc4e3d65f47d
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 5 11:56:14 2017 +0800
+
+    Contents of our html so that we could check our spelling.
+
+commit 673a3cdca976ed8919e056ee35511831f7eabd41
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 11:55:28 2017 +0800
+
+    Deleted duplicates
+
+commit 87f73720f49ac4f46088abfc31e1a42afa79fb49
+Merge: 4a1bfea 67adc65
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 11:52:48 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Both are correct
+
+commit 4a1bfeabd187a9e920dba3c90e76cb1c0eb660ed
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 11:52:37 2017 +0800
+
+    Correcting spaces
+
+commit 67adc656968879cecfea86893cbdbea38dd86022
+Merge: 9459dbb f778bf6
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 11:52:15 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 9459dbbfdec90bc8c90870b28321a91362cb3538
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 11:51:46 2017 +0800
+
+    Added description in globalwarming.html
+
+commit 846dd87a43645003f9acea02b642b4ff22700748
+Merge: 76a308e f778bf6
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 11:47:08 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Both are correct
+
+commit 76a308eca58c3e380334f1a7ceca05e8c740138a
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 11:46:41 2017 +0800
+
+    Removed css
+
+commit f778bf6a14cad40add521795a0fb3c8786c450a2
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 5 11:45:40 2017 +0800
+
+    Added changes
+
+commit 4dcff3586e5d9812b0c6ba3301f85b1750af82c7
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 11:45:25 2017 +0800
+
+    Corrected typo
+
+commit 7c4e0cff57eccdcf3c06063f7b0b9a780f320171
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 08:58:19 2017 +0800
+
+    Edited my part in about.html
+
+commit 0f7c04d7186abbb1309f39ee6276c719ff5b53ad
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 4 23:40:42 2017 -1200
+
+    added pictures and links
+
+commit 77df3f9256b8b6bf3f42e5255ad17c8aa2ea4901
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 4 23:24:18 2017 -1200
+
+    fixed the alt
+
+commit 4c29b4d296bfaab6631a4bf6d8d1aaef3a47221c
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 4 23:23:25 2017 -1200
+
+    added some pictures and articles
+
+commit 78f213ccc5da22ef525e2729b0c8cb3afb273e6a
+Merge: d744edc 174aa95
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 4 23:10:16 2017 -1200
+
+    added pictures
+
+commit d744edcc827f374d8c4b663893d7e1b45e741f5c
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 4 23:07:49 2017 -1200
+
+    i added some pictures and articles
+
+commit dd467682408e81b634fb223b1fffe60447bef94f
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 4 22:48:48 2017 -1200
+
+    added pictures and articles
+
+commit 174aa9543e9437cc7b36cdd4e072ef6c1fb96408
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 23:08:27 2017 +0800
+
+    Fixed typo errors
+
+commit 9370191cf3b371a8a029ffef1d3cba90ce59869b
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 23:07:46 2017 +0800
+
+    Changed the quote
+
+commit bd81d5b9c581c7b045edafda01bb42fbf95fbd06
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 23:00:31 2017 +0800
+
+    Added some contents
+
+commit e85ba45b242c1dd6055bad7fc047aea479c52327
+Merge: e967d27 c36c5f1
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sat Feb 4 22:36:58 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit e967d271aca8f0d401900c8c3d295e26792cfd19
+Merge: be3ee7d 9216277
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sat Feb 4 22:36:33 2017 +0800
+
+    Added my part in about.html
+
+commit c36c5f1d2b2ba431323b297004886a1c16e429ef
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 22:30:04 2017 +0800
+
+    Amost done on fixing error
+
+commit 8e0aa5cd4f67734f0789a2526f0c4de55c232b77
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 22:22:40 2017 +0800
+
+    Resolve errors
+
+commit 9216277e7825127038dea6cf906ff7ff72da13ea
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 22:14:53 2017 +0800
+
+    Fixed all error codes
+
+commit be3ee7d294efd9695b8e2cc62f15faabbaa32ef8
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sat Feb 4 22:14:43 2017 +0800
+
+    Added my part on about.html
+
+commit 60c7f80cfbd82d3272a70d30864b207d40fc8717
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 22:00:59 2017 +0800
+
+    Added link tag for altstyle.css
+
+commit 844d81ffb6dffa02714aeab2a8376cc57fdd79ee
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 21:50:57 2017 +0800
+
+    Added figcaption tags
+
+commit 1404047ad522dae1ce01e80b97cf141bdb9d2274
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 21:38:35 2017 +0800
+
+    Modified some part of the code
+
+commit 87c1b1e19663d5bda27b08d1311c9a4b3067725f
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 01:36:23 2017 -1200
+
+    added photos and articles on this page
+
+commit c56e2e9c92ab2a650d84f2892cfcbf770475a1e2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 21:32:59 2017 +0800
+
+    I made a gallery.html, with pictures, please add captions
+
+commit 3d409bb04e974ee5a0145da6cd6def11b1a4e7da
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 01:19:32 2017 -1200
+
+    cant clone the repo.
+    
+    the size is too big but heres the edited climatechange.html. it has pictures and links already
+
+commit 8c81d745d7ca9274613b7c3d2461e73edb63d4bf
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 20:10:17 2017 +0800
+
+    Changed the quote
+
+commit 5d360e853ce875c57478d3d159a300cbf2464b2e
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 20:07:27 2017 +0800
+
+    Changed the quote
+
+commit bcc756d14da78ae5e515929c3f6522aad9d3ad73
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 20:05:29 2017 +0800
+
+    Changed the quote
+
+commit f00396ed4d82333cf29c46d32883bc2b2bdd4aa7
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 19:54:16 2017 +0800
+
+    Added other contents that were not filled out
+
+commit 8fb0767a44ed2355fc00d08f7f913f3b807ca241
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:46:12 2017 +0800
+
+    Deleted duplicate
+
+commit 204c82194e51a5285d76e970f72450ecfd4391d0
+Merge: 8c57d1e f959ef5
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:44:42 2017 +0800
+
+    Resolved conflicts and modified head tags
+
+commit 8c57d1e72b3f6a4b8159145b3abc6f3149e7003a
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:42:03 2017 +0800
+
+    Modified head tag
+
+commit f959ef595614495e653287649eeead20b24fdb54
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 19:39:55 2017 +0800
+
+    I added information about Deforestation
+
+commit 4f60084fe4eb5eee05e6c9e0cd8aeed3ac386520
+Merge: 3e87ede ab3fa2f
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:29:17 2017 +0800
+
+    FIxed conflicts
+
+commit 3e87ede24e0bdd64530e837ca98116d6d1690d08
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:26:07 2017 +0800
+
+    Deleted css
+
+commit ab3fa2f5366281f15c4e19b54c952ab3f3bb693b
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 19:22:08 2017 +0800
+
+    Added information in about
+
+commit c344bdeb545c552bcb9490aefbff064ee4f8fbf1
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:01:56 2017 +0800
+
+    Modified table
+
+commit 0a0b8560587e2d7a3291327584055ae5523669cf
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 19:00:25 2017 +0800
+
+    Deleted duplicates
+
+commit 409a029343b3fd315fce2fce6bf0c61b11fc2eb8
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 18:55:53 2017 +0800
+
+    Added some contents
+
+commit ce27c3b97f8b394dc6da23999683194cdca4c794
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 18:42:28 2017 +0800
+
+    I added information about the climatechange.
+
+commit 0c0177845a219d6a267b6199705a5ca5ff8cabe3
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 18:24:58 2017 +0800
+
+    I added information about the globalwarming
+
+commit e692b5b61b3fc681e07e80fefeae023101e56240
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 17:45:15 2017 +0800
+
+    Added my information
+
+commit 61d47c11964d43087a9b934f19c9ded85a5ef255
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 17:12:27 2017 +0800
+
+    Change header
+
+commit 62007b883498a7e5d10861c632ee9dfbdebf0cbc
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 17:04:21 2017 +0800
+
+    Deleted some duplicated code
+
+commit 94ce12c815422bf6ba6679983c297e0d80272695
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 17:01:52 2017 +0800
+
+    Added table
+
+commit 54046f6fc16b5793ed680a0d03c9ff35c4308fc1
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 16:44:10 2017 +0800
+
+    I added the issues on the navigator
+
+commit fe888cf36027b9bbf1ac5a857ade0d5bf21d2522
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 16:40:54 2017 +0800
+
+    hide css code
+
+commit e7dafd1afb9d3d12c3daa5c45b56311890ddb1f8
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 16:39:24 2017 +0800
+
+    Modified css nav, and size of logo in html
+
+commit fb03de9ed893889a8d12ccf18f22530004085737
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 15:40:40 2017 +0800
+
+    Rename all pictures by numbers
+
+commit a66d41839e22c5fddb52a7f9fe1629657db06846
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 15:24:56 2017 +0800
+
+    Added the Environmental Protection.
+
+commit c70ee6581b7408b3291933060b2d48e944ab6061
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sat Feb 4 15:15:20 2017 +0800
+
+    adding of the goals
+
+commit e5bf5b2476bc4c8dd419a24494b76888247e4134
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 15:11:07 2017 +0800
+
+    Made a contruct for 3 html
+
+commit 301b7ce4edc3682bfef802b4ec5cc53942130076
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 15:02:06 2017 +0800
+
+    Chnage the title
+
+commit 322c0e7f858e4bbba7936b94cb3544533dcadb6b
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 15:00:46 2017 +0800
+
+    Added construct
+
+commit 8885a7aae1be224eaf83f54715f163169c174038
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 14:55:13 2017 +0800
+
+    Added 3 more html for issues in environment
+
+commit 620dd5a64c2d2ec631f8e7be7e13d1c1bcab844f
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 14:46:57 2017 +0800
+
+    Deleted and changed some of the parts of the tags
+
+commit 3438e4759b6edc2f5f5f119ffc61fd5e098c5774
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 14:43:49 2017 +0800
+
+    Added close tag for div
+
+commit 6e0b7286134eb39925a5e5581bd8ba90c3383aa6
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 14:41:18 2017 +0800
+
+    Fixed error in code
+
+commit 17fec47edfe6e8ebafa7806ff8345c3938d817e2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 14:39:06 2017 +0800
+
+    Resolved some of the conflicts in the code
+
+commit f006984b3155d466ef17e0449b37198e99e5d225
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 14:13:33 2017 +0800
+
+    Updated some parts and added references
+
+commit 2c175ccc2d4e9ba11dd7b38eb0690c9972a9df6e
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 12:26:53 2017 +0800
+
+    Updated my part
+
+commit dc02bef5652c69214b61920252aa3afa590fd3f2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 12:01:46 2017 +0800
+
+    Added doctype on top
+
+commit 444cda19d3ac3cf07cf822bff1a428004a787ee3
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 11:41:32 2017 +0800
+
+    Added sub titles
+
+commit 6c9633452c85d5bff1ee7bbd03d94fbbc629c3ef
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 11:31:15 2017 +0800
+
+    Deleted duplicates
+
+commit 8c5ae9bd445c5396672b18aad1da2a34bd66f23c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 11:26:23 2017 +0800
+
+    Organize pictures to subfolders to avoid confusion
+
+commit 88e539a10154d7804bb039ca889937d88dacd27f
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 11:14:26 2017 +0800
+
+    Added fieldset, fixed some codes like password
+
+commit e664f01713754db916896b66998d12dc52f06b9f
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 10:53:31 2017 +0800
+
+    Added banner to all html
+
+commit 64156f22d9437dc312c6151f1d96cdd7c20f2514
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 10:39:42 2017 +0800
+
+    Added bgcolor toall html
+
+commit 231bc2c01cb5bda8d7d224d1048cc154b3e68478
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 10:23:21 2017 +0800
+
+    I put classes and put a banner (a quote)
+
+commit dad1f3de8afa61504dbbf012a843176015857153
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 4 10:08:28 2017 +0800
+
+    I edited the about pictures, and put in about.html
+
+commit 830c05506a10ae640abfed7ff6666c5dacbb8299
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Sat Feb 4 09:24:34 2017 -1200
+
+    Added my part.
+
+commit a87d3a14da0190d1fea3e5e5fc4cbc345214a500
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 02:16:23 2017 +0800
+
+    Added my part on about.html
+
+commit 5222027d62db962f5d69ba63eadf4f6c38b54259
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 02:08:16 2017 +0800
+
+    Added another text source
+
+commit 0d999f939e6ed998dfddd98932642774154f3519
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 4 01:00:24 2017 +0800
+
+    Added other photos
+
+commit 9651a2876307c8c14d00aef59a8e8bcde5754f93
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 23:50:28 2017 +0800
+
+    reorganize
+
+commit 48b21bc44ec7d5ccf55e80e6969a51014cb85f0b
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 23:43:23 2017 +0800
+
+    I organize the files
+
+commit 091ec5a45b4bff0b9af0255c13e81b6719563820
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 23:28:26 2017 +0800
+
+    Put logo in all html, and change navigator
+
+commit beab6465c38c3c5a730a2045d28d0350dec3bfa4
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 23:26:41 2017 +0800
+
+    Put a logo in about.html
+
+commit 6a30ebd145837e73f9f629484e25fc78a64d06f9
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 23:17:07 2017 +0800
+
+    I made an image for icon and icon+name
+
+commit 3919ccb2034cdeaec7d014be1143c3257cb7ca2a
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 22:39:17 2017 -1200
+
+    fixed the headlines for the articles
+
+commit 2c9e65a8cf08b92156702d851b7ee6bc060c3647
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 22:27:08 2017 +0800
+
+    I added paragraphs in the main page
+
+commit 50a04d9dcaf8ab116327988d40e0ce1e657c9b41
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 22:08:34 2017 -1200
+
+    Added new feature for the articles
+
+commit 601a9f252c43561832e75c5be7d5e720c5dcf19d
+Merge: ae039e8 414cfa5
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 21:51:23 2017 +0800
+
+    Merge branch 'master' of http://github.com/IsmaelLangit/webtech_Lab
+
+commit 414cfa55339ba3e521d651d038101ea73e504ef2
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 21:49:33 2017 -1200
+
+    changed the links on the navigator menu
+
+commit c8596608c735fa890126a5cc300e726d9206b826
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 21:48:59 2017 -1200
+
+    changed the links on the navigator menu
+
+commit 86484b66028190595c48ba0e30609dd84e08abdb
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 21:48:19 2017 -1200
+
+    changed the links on the navigator menu
+
+commit 733f99669fd3744b8d074ae53387bbec697852d4
+Merge: ab4418d 2d48bda
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 21:47:49 2017 -1200
+
+    changed the links on the navigator menu
+
+commit ab4418dc013bde21982a017da21e8d395dd8d2ed
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 21:38:47 2017 -1200
+
+    changed the links on the navigator menu
+
+commit 3366952679cbe6263e3ae343fe13cd40e18e5d1f
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 20:45:46 2017 -1200
+
+    Made some changes and removed the redundant details and made it understandable
+
+commit b2931be51f5a2047c08947b63fcfa951994b8e7a
+Merge: 3cb5610 b236e86
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 20:32:59 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/webtech_Lab
+
+commit 3cb5610f47486fef4c25110825af5f475fa3510e
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 20:22:31 2017 -1200
+
+    I added some links related to environmental articles.
+
+commit 103c8e9d862e45fa6b1ad57f624a1a683e90af98
+Merge: 314ba58 9211ea8
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 19:56:31 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/webtech_Lab
+    
+    sign up # forms# Made some changes on the descriptions/details and added
+    the sign up # forms
+
+commit 314ba58a3d2fcad13201e315739502a6577b9bbd
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 19:56:02 2017 -1200
+
+    I edited some details/descriptions and added the sign up form
+
+commit d94f3930e38c0cbe23c8f4259e35d42db5f4ee73
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Fri Feb 3 19:39:18 2017 -1200
+
+    I removed the Contact since we have already a page that is Join now whereas it will serve as our contact too. i replaced the contact with About
+
+commit ae039e86761c67f2efd1be7a644e6a9858122ad6
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 21:49:02 2017 +0800
+
+    Added photos
+
+commit 2d48bdaaf87249a34643143c04da3932fa7c441f
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 21:36:50 2017 +0800
+
+    Added the Environmental Problems.rtf
+
+commit 4e3a3ff500897ec5075c59a341741dd289a48808
+Merge: 11360de 34748f8
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 21:32:40 2017 +0800
+
+    Merge branch 'master' of http://github.com/IsmaelLangit/webtech_Lab
+
+commit 11360dec4fc09defc5330c7555006d370f4ad073
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 21:30:35 2017 +0800
+
+    Added the Environmental Issues.rtf
+
+commit 34748f84506e4667d9bd3f82e0460bc490514acf
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 21:10:47 2017 +0800
+
+    Fixed navigator
+
+commit b236e8660c0b1cca076d0d2ce0a7dbedc61117f4
+Merge: 3221ef1 103c8e9
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 20:23:33 2017 +0800
+
+    Added my information in about.html, and put format for other members. And edit row and column size f textfields in joinnow.html
+
+commit 3221ef1c6238cfb68fbaf7b6fc35bf5d78a50c59
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Fri Feb 3 20:22:25 2017 +0800
+
+    Added my information in about.html, and put format for other members. And edit row and column size f textfields in joinnow.html
+
+commit 9211ea82dbc57ca30786f365818e3cd574359310
+Merge: 86ba567 d94f393
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 19:55:38 2017 +0800
+
+    Merge branch 'master' of http://github.com/IsmaelLangit/webtech_Lab
+
+commit 86ba567710432f2870aa9281f851e2ce329e5318
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Fri Feb 3 19:49:22 2017 +0800
+
+    I added News-Article.docx
+
+commit 1423919c2ad7356d62208f553348e8a659f688c5
+Merge: ae30f67 6ac9af2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Thu Feb 2 21:52:25 2017 +0800
+
+    Added footer for all html
+
+commit 6ac9af2ca31fb98b99e6fa5dfddd215a42e49a1c
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Thu Feb 2 21:09:54 2017 -1200
+
+    Made some changes on the index.html (home page) wherein i changed the link for About, Articles and Contact since were gonna separate each of them.
+
+commit 886999e555076517389def613aa17703a283d1b5
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Thu Feb 2 21:00:45 2017 -1200
+
+    I added a navigation menu on index.html.
+
+commit 43fc43135cb86d0c8a91e7e5434977bfa409f6c9
+Author: Franchesca Derije <Franchesca Derije>
+Date:   Thu Feb 2 20:49:28 2017 -1200
+
+    I added the css style for our contact page. please go over it and take a look
+
+commit ae30f672984c76fed96cb79c2d366c501d037d55
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Thu Feb 2 21:50:26 2017 +0800
+
+    Added footer for all html
+
+commit fe02a22faa413e727a5815a04e620d92a9e34a4c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Thu Feb 2 21:45:05 2017 +0800
+
+    Added navigator in joinnow.html, about.html, articles.html with hyperlinks.
+
+commit cd950b04414dd435299cfa8d88ee4d4663a9ec8d
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Thu Feb 2 21:41:26 2017 +0800
+
+    I added hyperlinks on Navigator and added content for head
+
+commit ebdcfb8ee50d45171d886a6f00a203f09eec0461
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Thu Feb 2 17:10:44 2017 +0800
+
+    I added Art1.docx
+
+commit 97b3ed1ef0f59524dbec648b9b34d66efad169fa
+Merge: d2edbd2 8956038
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Thu Feb 2 16:58:00 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/webtech_Lab
+
+commit d2edbd23fbf14add3a49cec2f4e436ff2273a8e9
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Thu Feb 2 16:56:18 2017 +0800
+
+    I added some html code for our contact.
+
+commit 8956038868642948888558744700e9a454e96dc0
+Author: maureenicole <maureenicolecalpito17@gmail.com>
+Date:   Thu Feb 2 16:47:31 2017 +0800
+
+    Added Article 1.docx
+
+commit 1fdbc7d8eec600c54e4a3961daf78104f6ade132
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Thu Feb 2 16:43:26 2017 +0800
+
+    I added a title
+
+commit 4d3c4a1fb6dbb7625b995991d1bf7cb9fe4bd19b
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Jan 30 21:49:21 2017 +0800
+
+    I made empty html and css files, and empty folder for the images.
+
+commit 009f081ad122edd44d8490c884a3a39d8e3d2403
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Jan 28 10:52:20 2017 +0800
+
+    Initial commit
