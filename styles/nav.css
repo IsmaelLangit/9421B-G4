@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'SansationLight';
+    src: url('./SansationLight.eot');
+    src: local('SansationLight'), url('./SansationLight.woff') format('woff'), url('./SansationLight.ttf') format('truetype');
+}
+
+nav li a,
+.dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover,
+.dropdown:hover .dropbtn {
+    background-color: lightgreen;
+}
+
+nav li.dropdown {
+    display: inline-block;
+}
+
+nav .dropdown-content {
+    display: none;
+    position: fixed;
+    /* Use absolute for static menu */
+    /*position: absolute;*/ 
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+nav .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+nav .dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+nav .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+/* END DROPDOWN */
+
+nav ul.nav {
+    height: 50px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(122, 184, 80);
+}
+    
+.nav li {
+    letter-spacing: 1px;
+    padding-left : 10px;
+    padding-right : 10px;
+    font-size: 18px;
+    float: left;
+}
+    
+.nav.nav-right li {
+        float: right;
+}
+    
+.nav li a {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+}
+    
+.nav li a:hover {
+    background-color: lightgreen;
+}
+
+nav ul.nav-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+    
+
+.logo {
+    padding: 0px;
+    height : 50px;
+}
