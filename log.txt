@@ -1,3 +1,328 @@
+commit 1383afe6ba99f05545c6861dd59ac538a1b75ec5
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 22:16:30 2017 +0800
+
+    Fixed error
+
+commit 3e030bc8932c2018a19200bdfc74d647a6c595d0
+Merge: 9c037cf b64906e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 22:11:55 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Fixed conflict
+
+commit b64906e2985678f9e7c596526e29de9f212777c9
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 22:05:31 2017 -1200
+
+    fixed the quote
+
+commit 2006405eded4098ed7c4c00b6a93b4a01493f862
+Merge: 302220f 96f7ffb
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 22:04:53 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 302220fc29ee6271a69b313b4dba045d7c565d78
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 22:01:17 2017 -1200
+
+    fixed the link related to the article
+
+commit 9c037cf6139e12c9ae74c617f25903f34991e683
+Merge: e300e8a 96f7ffb
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 21:58:13 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Add additional info
+
+commit 96f7ffb0195701d6cf6fc5c32001023f164f5650
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 21:55:46 2017 +0800
+
+    Edited the articles.html
+
+commit 01e6f93a993e43dae7221e63381b9e95a8a754ec
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 5 21:52:03 2017 +0800
+
+    Added my picture crizza.jpg
+
+commit 54bcf2313ac95c217c2cca2515ea13f35799dc73
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:46:51 2017 +0800
+
+    Fixed typo errors
+
+commit 76a6514722f2ae22b2f4ca845a7806fa83c7398f
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:41:43 2017 +0800
+
+    Fixed a typo error
+
+commit e300e8a4c874c8712357cc2ea61187754d7d64f3
+Merge: 35ad00a d966184
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 21:35:07 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Add additional codes
+
+commit d9661841636f96bb2ad8cd4c45192afeeb6b3736
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:20:50 2017 +0800
+
+    Fixed watermarks
+
+commit f210b922428339198f03f84780b1f960527ef992
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:19:59 2017 +0800
+
+    Fixed watermarks
+
+commit fba180480f45d59b8958c9f35880a7d9dae3382b
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:18:31 2017 +0800
+
+    Fixed watermarks
+
+commit 638934e580ab48bc08bc2c63f98105112ddd6684
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:17:32 2017 +0800
+
+    Fixed watermark
+
+commit 49ff23da4e703ffa513d47729d4231f9b9ee9e6e
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 21:15:46 2017 +0800
+
+    Fixed watermarks
+
+commit 35ad00aeff104a86ff960ada483a1e2f5da33aee
+Merge: 96fec02 3be2cf4
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 20:49:14 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Added photo
+
+commit 3be2cf4fd3b853e32ab412d2a1a7b72e31c9a913
+Author: crizzapascual <2151879@slu.edu.ph>
+Date:   Sun Feb 5 20:42:00 2017 +0800
+
+    Added my part in about.html
+
+commit a198c6feb2c4ff3ceccb987118e26b08f71bba25
+Author: crizzapascual <2151879@slu.edu.ph>
+Date:   Sun Feb 5 20:41:00 2017 +0800
+
+    Add files via upload
+    
+    Added my part in about.html
+
+commit c867ea8b2b7346289c2bfd418954c9d9266f3dfa
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 20:31:03 2017 +0800
+
+    Fixed watermarks
+
+commit 96fec0210b003c5933b32f42d17a9f217189f93f
+Merge: a8dcd61 5e0badd
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 20:13:04 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Added images
+
+commit 5e0badd3f843d5e5fb6370397e7db8ff8e988ee9
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 20:08:28 2017 +0800
+
+    Added watermark
+
+commit 01db24b9f3448b6bacec5b5db03b2698755b9d1e
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 20:05:59 2017 +0800
+
+    Added watermark
+
+commit 987d412a7af6f83ad40aed217cc998de582fbc0f
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 20:01:40 2017 -1200
+
+    added a new photo
+
+commit b17b299c0f526856e8a363e1d770d17b7ba9d554
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 19:57:57 2017 -1200
+
+    changed the photo and added a related article
+
+commit a8dcd61d5b37f59eed9c9aa919736363887c03ba
+Merge: 4599ecc 987d412
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 20:03:37 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Add additional image
+
+commit 4599ecccb2489ca544a0620e4454ffdc74641ba3
+Merge: 8127c1d b17b299
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 19:59:41 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolved issue
+
+commit 8127c1da51ec8f7fe9c92b4d347e7c52f76e0be0
+Merge: a8b89b2 913ada3
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 19:53:42 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolve conflict
+
+commit 913ada3e41b2d74668ba07086b20bc20d56ee87e
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 19:51:51 2017 +0800
+
+    Added watermark
+
+commit 5a94c7eaad507181c4962a0dfb8fdc1f335aed59
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 19:49:29 2017 +0800
+
+    Added watermark
+
+commit d3ed7ca52fe9f04187b35856631d75b6608e9768
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sun Feb 5 19:34:45 2017 +0800
+
+    Added watermark
+
+commit bcec2c81d0162e735942b6f49354ff03df019eae
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 18:50:41 2017 -1200
+
+    photos
+
+commit 31d7491c82bea5d120c1c1ab9a7d43bf35ea252b
+Merge: c8a4934 30e4af0
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 18:41:32 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit c8a4934500cb503b4ade05801755686b71d8c3e8
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sun Feb 5 18:41:09 2017 -1200
+
+    added pictures and edited the html file
+
+commit a8b89b2becd78c9eabea672cdd4b901ec0d711cd
+Merge: 2ff9f7e bcec2c8
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:53:13 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Additional photos
+
+commit 2ff9f7ea5c5e03d1a594d61c0a7ffcde489ce823
+Merge: c1590fe 31d7491
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:45:21 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolved conflict
+
+commit c1590fec51d8f280f4e6899ca16bd3e273e99ae8
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:44:33 2017 +0800
+
+    Fixed conflict
+
+commit 30e4af0b10818034cc657ca001c786c7dc9ab92e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:41:59 2017 +0800
+
+    Fixed error
+
+commit 8b9d71b906137139823a443a125f686c44b24c7c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:35:39 2017 +0800
+
+    Deleted head
+
+commit 000fbdf679ae761969dcf1517e562e69866530ae
+Merge: ae85031 2ac6b50
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:34:32 2017 +0800
+
+    Deleted duplication
+
+commit ae85031250c18d57d17cef335d6d5f0bc9d4a84d
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:29:29 2017 +0800
+
+    Revert to previous version because it the right one
+
+commit 2ac6b507867bc143db7e34a1faa083063c3fd762
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 22:19:30 2017 -1200
+
+    deforestation
+
+commit f4b61330372bb4efd1b7d4c01e51b954f8a9130a
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:17:23 2017 +0800
+
+    Modified code
+
+commit 271763057f29d7d2905cc2ee8face22d63c1e79e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 18:06:04 2017 +0800
+
+    Fixed conflicts
+
+commit 34d46909d21946045de6155c284c2f6cb41ad24f
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 17:58:10 2017 +0800
+
+    Added log.txt
+
+commit e1962be3159bca039ae61b8882abc42e642b42b0
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 17:55:40 2017 +0800
+
+    Revert to previous version because it the right one
+
+commit 9fc28e0145dd9f11edbe20ca3362e47a2eeb7c77
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 17:55:25 2017 +0800
+
+    Revert to previous version because it the right one
+
+commit 5360ada309abb6712f4b167d0759a81b3cbf8806
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 17:54:59 2017 +0800
+
+    Revert to previous version because it the right one
+
+commit 1dfe5cbbc98268a33e5b4893f64eadab147b27c2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 17:54:42 2017 +0800
+
+    Revert to previous version because it the right one
+
+commit dcbb2e4871b038d1976d71cc6746669737aea21a
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sat Feb 4 19:31:59 2017 -1200
+
+    edited the html file
+
 commit 8bb764d580b22050ddfc0333af29b9fbf7b36265
 Author: franchescaderije <2153678@slu.edu.ph>
 Date:   Sat Feb 4 19:28:49 2017 -1200
