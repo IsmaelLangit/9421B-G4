@@ -6,17 +6,23 @@ text-align : center;
 background-attachment: fixed;
 top : 50px;
 height : 300px;
-padding-top : 175px;
+padding-top : 200px;
+}
+
+.content-top {
+	margin: 50px;
+}
+
+.content-top h1{
+	text-align: center;
 }
 
 .container {
-    height: 700px;
-
+    height: 500px;
+    padding: 0px 50px;
 }
 
 .left, .right {
-    width: 40%;
+    width: 50%;
     float: left;
-    margin: 50px;
 }
-
