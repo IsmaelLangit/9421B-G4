@@ -70,33 +70,6 @@ padding-top : 175px;
     float: left;
 }
 
-.gallery1, .gallery2, .gallery3{
-	margin: 2%;
-	border: 1px solid #ccc;
-	width: 1500px;
-	float: left;
-
-}
-
-.first, .second, .third {
-	float : left;
-}
-
-.gallery1, .gallery2, .gallery3:hover {
-	border: 1px solid #777;
-}
-
-.gallery1, .gallery2, .gallery3 pictures{
-	
-	width: 100%;
-	height: auto;
-}
-
-figcaption{
-	padding: 15px;
-	text-align: center;
-}
-
 .firstbatch {
 	column-count: 3;
 }
@@ -105,5 +78,24 @@ figcaption{
 	column-count: 2;
 }
 
+.gallery1, .gallery2, .gallery3 {
+	column-count: 3;
+}
+
+.pictures {
+	height : 350px;
+	width : 400px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.content-gallery h3 {
+	width : 100%;
+	margin-bottom: 50px;
+	background-color: green;
+	color: white;
+	text-align: center;
+	padding: 5px 0;
+}
 
 
