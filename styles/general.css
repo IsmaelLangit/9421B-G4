@@ -21,12 +21,14 @@ h1 {
 	font-size : 30px;
 	font-family: "Arial Black";
 	padding: 15px 0;
+	color : green;
 }
 
 h2 {
 	font-size : 28px;
 	font-family: "Arial Black";
 	padding: 10px 0;
+	color : green;
 }
 
 h3 {
@@ -43,9 +45,11 @@ p, ul, li, input, textarea{
 	font-family: "Calibri";
 	padding-right : 10%;
 	text-align: justify;
+	color :  #2f3e0f;
 }
 
 strong {
+	color : #004d00;
 	
 
 }
