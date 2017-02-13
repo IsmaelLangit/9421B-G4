@@ -96,8 +96,14 @@ figcaption{
 	padding: 15px;
 	text-align: center;
 }
-.aboutcontent {
-			float: left;
-			width: 33%;
-		}
+
+.firstbatch {
+	column-count: 3;
+}
+
+.secondbatch {
+	column-count: 2;
+}
+
+
 
