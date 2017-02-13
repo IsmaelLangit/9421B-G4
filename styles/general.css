@@ -10,6 +10,7 @@ text-decoration : none;
 	padding : 0px 150px;
 	font-family: "Calibri";
 	font-weight: bold;
+	text-align: center;
 }
 
 .banner cite{
@@ -42,10 +43,6 @@ p, ul, li, input, textarea{
 	font-family: "Calibri";
 	padding-right : 10%;
 	text-align: justify;
-}
-
-.container ul, li {
-	 list-style-type: circle;
 }
 
 strong {
