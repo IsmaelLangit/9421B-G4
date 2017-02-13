@@ -1,12 +1,35 @@
 .banner {
-background-image: url("../images/background/pollution.jpg");
 background-size : cover;
 background-repeat : no-repeat;
 text-align : center;
 background-attachment: fixed;
 top : 50px;
 height : 300px;
-padding-top : 200px;
+padding-top : 175px;
+}
+
+.index, .gallery, .articles, .joinnow {
+	background-image: url("../images/background/enviprotection.jpg");
+}
+
+.pollution {
+	background-image: url("../images/background/pollution.png");
+}
+
+.climatechange {
+	background-image: url("../images/background/climatechange.png");
+}
+
+.deforestation {
+	background-image: url("../images/background/deforestation.jpg");
+}
+
+.globalwarming {
+	background-image: url("../images/background/globalwarming.jpg");
+}
+
+.about {
+	background-image: url("../images/background/environment.jpg");
 }
 
 .logo {
