@@ -35,7 +35,7 @@ h4 {
 	font-size : 24px;
 }
 
-p, ul, li {
+p, ul, li, input, textarea{
 	font-size : 22px;
 	font-family: "Calibri";
 }
@@ -48,4 +48,15 @@ strong {
 	
 
 }
-
+button{
+	font-family: "Century Gothic";
+	font-size:20;
+	float:left;
+	width: 100%;
+	background-color: #44c141;
+	color:white;
+	font-size:24px;
+	padding-top:22px;
+	padding-bottom:22px;
+	font-weight:700;
+}
