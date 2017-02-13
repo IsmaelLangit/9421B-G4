@@ -106,6 +106,21 @@ padding-top : 175px;
 	padding-top: 50px;
 }
 
+.content-top h1, h2{
+	text-align: center;
+}
+
+.content-top p {
+	text-align: justify;
+	padding-bottom: 50px;
+}
+
+.main-container img {
+	float : left;
+	padding: 0 50px 50px 0;
+
+}
+
 footer {
 	font-weight: bold;
 	letter-spacing: 5px;
