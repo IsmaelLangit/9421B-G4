@@ -11,6 +11,7 @@ text-decoration : none;
 	font-family: "Calibri";
 	font-weight: bold;
 	text-align: center;
+	color : #001a00;
 }
 
 .banner cite{
@@ -21,7 +22,6 @@ h1 {
 	font-size : 30px;
 	font-family: "Arial Black";
 	padding: 15px 0;
-	color : green;
 }
 
 h2 {
