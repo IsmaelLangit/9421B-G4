@@ -19,7 +19,9 @@ padding-top : 200px;
 
 .container {
     height: 500px;
-    padding: 0px 50px;
+    padding: 50px 50px;
+    line-height: 1.2;
+
 }
 
 .left, .right {
