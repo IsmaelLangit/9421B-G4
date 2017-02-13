@@ -8,6 +8,8 @@ text-decoration : none;
 .banner p{
 	font-size : 35px;
 	padding : 0px 150px;
+	font-family: "Calibri";
+	font-weight: bold;
 }
 
 .banner cite{
@@ -16,14 +18,17 @@ text-decoration : none;
 
 h1 {
 	font-size : 30px;
+	font-family: "Arial Black";
 }
 
 h2 {
 	font-size : 28px;
+	font-family: "Arial Black";
 }
 
 h3 {
 	font-size : 26px;
+	font-family: "Century Gothic";
 }
 
 h4 {
@@ -32,6 +37,7 @@ h4 {
 
 p, ul, li {
 	font-size : 22px;
+	font-family: "Calibri";
 }
 
 .container ul, li {
@@ -39,5 +45,7 @@ p, ul, li {
 }
 
 strong {
+	
 
 }
+
