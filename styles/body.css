@@ -41,8 +41,14 @@ padding-top : 175px;
 
 }
 
-.photo {
+.protect, .promote {
 	float: left;
+	padding-top: 20px;
+}
+
+.educate {
+	float: right;
+	padding-top: 35px;
 }
 
 .content-top {
@@ -56,7 +62,6 @@ padding-top : 175px;
 .container {
     padding: 50px 50px;
     line-height: 1.2;
-
 }
 
 .left, .right {
