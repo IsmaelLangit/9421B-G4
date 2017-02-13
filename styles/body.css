@@ -36,6 +36,10 @@ padding-top : 175px;
 	padding-right: 250px;
 }
 
+.main-container {
+	height :1500px;
+}
+
 .content-top {
 	margin: 50px;
 }
@@ -45,7 +49,6 @@ padding-top : 175px;
 }
 
 .container {
-    height: 500px;
     padding: 50px 50px;
     line-height: 1.2;
 
@@ -82,3 +85,4 @@ figcaption{
 	padding: 15px;
 	text-align: center;
 }
+
