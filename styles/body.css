@@ -32,6 +32,10 @@ padding-top : 175px;
 	background-image: url("../images/background/environment.jpg");
 }
 
+.photo {
+	float: left;
+}
+
 .content-top {
 	margin: 50px;
 }
