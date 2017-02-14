@@ -148,6 +148,16 @@ padding-top : 300px;
 .article {
 	 clear: both;
 }
+
+#deforestation-article {
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+#deforestation-article img{
+	float: left;
+	padding-right: 50px;
+}
 		
 footer {
 clear :both;
