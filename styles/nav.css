@@ -47,9 +47,6 @@ nav .dropdown:hover .dropdown-content {
     display: block;
 }
 
-
-/* END DROPDOWN */
-
 nav ul.nav {
     height: 50px;
     list-style-type: none;
