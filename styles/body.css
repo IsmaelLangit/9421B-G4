@@ -154,6 +154,14 @@ padding-top : 300px;
 	 clear: both;
 }
 
+.about {
+	padding : 0 50px;
+}
+
+.aboutcontent {
+	padding-bottom: 70px;
+}
+
 #deforestation-article {
 	padding-left: 50px;
 	padding-top: 50px;
