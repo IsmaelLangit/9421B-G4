@@ -54,7 +54,13 @@ strong {
 	
 
 }
-
+fieldset {
+    border: 0;
+	width:100;
+}
+.sendmsgform{
+	width:100;
+}
 button{
 	font-family: "Century Gothic";
 	font-size:20;
@@ -66,6 +72,7 @@ button{
 	padding-top:22px;
 	padding-bottom:22px;
 	font-weight:700;
+	
 }
 .noaccount{
 	background-color:#a0d8a6;
@@ -90,6 +97,7 @@ button{
 	padding-top:35px;
 	padding-bottom:50px;
 	width: 450px;
+	width:100%;
 	float: left;
 	left: 50%;
 	position: bottom;
@@ -102,11 +110,14 @@ button{
 	width:100%;
 	float:left;
 	padding-top: 10vh;
+	border:none;
 }
 .content-buttom{
 	background-color:#a0d8a6;
 	padding-left:35px;
+	width:100%;
 	padding-right:35px;
+	border:none;
 	padding-top:35px;
 	padding-bottom:50px;
 	width: 450px;
