@@ -10,6 +10,7 @@ text-decoration : none;
 	padding : 0px 150px;
 	font-family: "Calibri";
 	font-weight: bold;
+	text-align: center;
 }
 
 .banner cite{
@@ -19,11 +20,13 @@ text-decoration : none;
 h1 {
 	font-size : 30px;
 	font-family: "Arial Black";
+	padding: 15px 0;
 }
 
 h2 {
 	font-size : 28px;
 	font-family: "Arial Black";
+	padding: 10px 0;
 }
 
 h3 {
@@ -38,16 +41,15 @@ h4 {
 p, ul, li, input, textarea{
 	font-size : 22px;
 	font-family: "Calibri";
-}
-
-.container ul, li {
-	 list-style-type: circle;
+	padding-right : 10%;
+	text-align: justify;
 }
 
 strong {
 	
 
 }
+
 button{
 	font-family: "Century Gothic";
 	font-size:20;

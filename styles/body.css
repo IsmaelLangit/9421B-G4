@@ -1,12 +1,48 @@
 .banner {
-background-image: url("../images/background/pollution.jpg");
 background-size : cover;
 background-repeat : no-repeat;
 text-align : center;
 background-attachment: fixed;
 top : 50px;
 height : 300px;
-padding-top : 200px;
+padding-top : 175px;
+}
+
+.index, .gallery, .articles, .joinusnow {
+	background-image: url("../images/background/enviprotection.jpg");
+}
+
+.pollutions {
+	background-image: url("../images/background/pollution.png");
+}
+
+.climatechange {
+	background-image: url("../images/background/climatechange.png");
+}
+
+.deforestations {
+	background-image: url("../images/background/deforestation.jpg");
+}
+
+.dglobalwarming {
+	background-image: url("../images/background/globalwarming.jpg");
+}
+
+.about {
+	background-image: url("../images/background/environment.jpg");
+}
+
+.logo {
+	padding-right: 250px;
+}
+
+.main-container {
+	height :1500px;
+
+}
+
+.photo {
+	float: left;
 }
 
 .content-top {
@@ -18,8 +54,9 @@ padding-top : 200px;
 }
 
 .container {
-    height: 500px;
-    padding: 0px 50px;
+    padding: 50px 50px;
+    line-height: 1.2;
+
 }
 
 .left, .right {
@@ -53,3 +90,4 @@ figcaption{
 	padding: 15px;
 	text-align: center;
 }
+
