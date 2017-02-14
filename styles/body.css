@@ -81,6 +81,11 @@ padding-top : 300px;
     float: left;
 }
 
+.leftform, .rightform {
+    width: 40%;
+    float: left;
+}
+
 .firstbatch {
 	column-count: 3;
 }
