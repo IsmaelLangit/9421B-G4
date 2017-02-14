@@ -39,6 +39,7 @@ padding-top : 175px;
 .main-container {
 	background-color: #f5faea;
 	padding-left: 50px;
+	height : auto;
 
 }
 
@@ -120,12 +121,6 @@ padding-top : 175px;
 
 }
 
-footer {
-	font-weight: bold;
-	letter-spacing: 5px;
-	text-align: center;
-	padding : 5px 0;
-}
 .aboutcontent {
 	float: left;
 	width: 33%;
@@ -143,5 +138,13 @@ footer {
 	 clear: both;
 }
 		
+footer {
+clear :both;
+background-color : lightgreen;
+letter-spacing : 10px;
+color : green;
+padding: 10px;
+text-align: center;
+}
 
 
