@@ -4,32 +4,44 @@ background-repeat : no-repeat;
 text-align : center;
 background-attachment: fixed;
 top : 50px;
-height : 350px;
-padding-top : 175px;
+height : 450px;
+padding-top : 300px;
 }
 
-.index, .gallery, .articles, .joinusnow {
-	background-image: url("../images/background/enviprotection.jpg");
+.index {
+	background-image: url("../images/background/9.png");
+}
+
+.gallery {
+	background-image: url("../images/background/1.png");
+}
+
+.articles {
+	background-image: url("../images/background/2.png");
+}
+
+.joinusnow {
+	background-image: url("../images/background/3.png");
 }
 
 .pollutions {
-	background-image: url("../images/background/pollution.png");
+	background-image: url("../images/background/7.png");
 }
 
 .climatechange {
-	background-image: url("../images/background/climatechange.png");
+	background-image: url("../images/background/4.png");
 }
 
 .deforestations {
-	background-image: url("../images/background/deforestation.jpg");
+	background-image: url("../images/background/5.png");
 }
 
 .dglobalwarming {
-	background-image: url("../images/background/globalwarming.jpg");
+	background-image: url("../images/background/6.png");
 }
 
 .aboutbanner {
-	background-image: url("../images/background/environment.jpg");
+	background-image: url("../images/background/8.png");
 }
 
 .logo {
@@ -37,10 +49,8 @@ padding-top : 175px;
 }
 
 .main-container {
-	background-color: #f5faea;
-	padding-left: 50px;
+	padding: 0 50px;
 	height : auto;
-
 }
 
 .protect, .promote {
@@ -140,7 +150,7 @@ padding-top : 175px;
 		
 footer {
 clear :both;
-background-color : lightgreen;
+background-color : #f9f9f9;
 letter-spacing : 10px;
 color : green;
 padding: 10px;
