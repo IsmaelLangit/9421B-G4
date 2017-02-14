@@ -64,6 +64,7 @@ padding-top : 300px;
 }
 .content-top {
 	clear :both;
+	padding :50px 50px 0 50px;
 }
 
 .content-top h1{
