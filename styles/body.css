@@ -130,7 +130,14 @@ footer {
 .aboutcontent {
 	float: left;
 	width: 33%;
-		
+}
+
+.start-last-row {
+	float: left; 
+	margin: 8%;
+}
+.end-row {
+	clear: both;
 }
 		
 
