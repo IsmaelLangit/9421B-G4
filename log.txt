@@ -1,3 +1,786 @@
+commit 16af97928af99b0ef052c8a63b9fb442872f23d3
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 23:19:53 2017 +0800
+
+    Deleted not needed pictures
+
+commit fc3f5df3d1451da4a68720d379ac757ddb14707c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 23:17:21 2017 +0800
+
+    Modified body.css for alignment in about.html
+
+commit aa355fcb12a94477908b85c2f9cd8fa7b7a1e3f9
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 23:14:02 2017 +0800
+
+    Modified alignment of join now html by css
+
+commit 28d69c7bcf4f3c08657c5bed16ffa79d4fbff130
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:47:13 2017 +0800
+
+    Fixed article.html
+
+commit 864c34563ccc8f44a623492009eec857720f05cd
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:44:12 2017 +0800
+
+    Fixed alignment for deforestation
+
+commit 7147531a0afa51204ee0537100d4f66854020bd6
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:38:46 2017 +0800
+
+    Modified padding
+
+commit 01a050e8e46d9092e9395f134e0ab422b412b6e9
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:36:50 2017 +0800
+
+    Modified css for climatechange.html, change the class name also in html
+
+commit 1593d0b2014b2a0fa36b976d26b07a06b68f328d
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:13:39 2017 +0800
+
+    Resized photos
+
+commit 4e9fd26c3863135036d0c65ee9c272c4a6fc02fb
+Merge: 87e14b9 7cfbb7a
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:04:50 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolving conflict
+
+commit 7cfbb7af168fbf2b31bb67622f1d00bf07c1bcdc
+Author: franchesca <chescaderije@gmail.com>
+Date:   Tue Feb 14 21:58:12 2017 -1200
+
+    added join now in nav
+
+commit 87e14b9c46efa079bf0016c7ecab6ae75c1b2fb1
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 22:04:36 2017 +0800
+
+    Modified banner pictures
+
+commit 9d1b7bb7634d951155e75766a555b42bb1b9c4e4
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 21:30:10 2017 +0800
+
+    I fixed the footer through css
+
+commit 49aca44a5a8d0922d8e83b85dd0a24f27f9e3494
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 21:19:16 2017 +0800
+
+    Modified pollutions and body.css - in pollution, the content and and the alignment and float through css
+
+commit 1ef16b11324873d5a305c74ac1b73078aaa222b2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 20:50:29 2017 +0800
+
+    Added footer in about
+
+commit 5b5d538bff0c50f601e9ca6762ffade11b5eb172
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 20:48:55 2017 +0800
+
+    Fixed about
+
+commit 688910f02b3b0a7a9ee8c4f1fe2d56b08a261dca
+Merge: 8f01737 067e8c7
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 20:43:26 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolving conflict
+
+commit 067e8c7bb944ac41f4d17da79b7218f1b579ada2
+Merge: 1a6e12b b9327f7
+Author: franchesca <chescaderije@gmail.com>
+Date:   Tue Feb 14 20:39:54 2017 -1200
+
+    fixed conflict
+
+commit 1a6e12be298f6bf1946b7de16b94dd056c97c4cd
+Author: franchesca <chescaderije@gmail.com>
+Date:   Tue Feb 14 20:29:19 2017 -1200
+
+    removed the unnecessary texts
+
+commit 13eb4985729ac21c6d3c8f2ea7559e77f29ac39f
+Author: franchesca <chescaderije@gmail.com>
+Date:   Tue Feb 14 20:02:37 2017 -1200
+
+    edited the width
+
+commit 8f01737329a19186648d85f6939650d058658e7e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 20:43:13 2017 +0800
+
+    Fixed classes in climate chage at about
+
+commit b9327f7709c5742bd48c1a9ecb9b90f208b6975e
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Tue Feb 14 20:26:24 2017 +0800
+
+    Added css for the about.html
+
+commit fc34c1b5a0f348048a3d4e2b692438e507a948ed
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Tue Feb 14 20:19:59 2017 +0800
+
+    edited the about.html
+
+commit 51a6652f9aaac10074d6cc8ea89f08dc78faa5bb
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Tue Feb 14 00:42:37 2017 +0800
+
+    Fixed the structure
+
+commit 5dbbe3b2da7c015a4277bb3fede866adee8796bf
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Tue Feb 14 00:42:19 2017 +0800
+
+    added some changes in pollution.html
+
+commit e1d74d89570b13d16acc6d82c5f262defa127420
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Tue Feb 14 00:37:47 2017 +0800
+
+    added some description
+
+commit 252c2e1d492290f42e61e91eb50c0b96fe09176f
+Merge: 12f1612 083e009
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Tue Feb 14 00:22:18 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 083e0096bdcfa50020d038e39997a15df621eae6
+Author: crizzapascual <2151879@slu.edu.ph>
+Date:   Tue Feb 14 00:21:42 2017 +0800
+
+    added css for body
+
+commit dc43c77ce3e07376d1973475afc47875483f836a
+Author: crizzapascual <2151879@slu.edu.ph>
+Date:   Tue Feb 14 00:21:11 2017 +0800
+
+    Add files via upload
+    
+    Added css for about
+
+commit 12f1612088b4c23793335d4a9607099fb491a1da
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Tue Feb 14 00:19:53 2017 +0800
+
+    added css for about
+
+commit c83004a02638ddc339ffc194b5d77b382c8973fc
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Tue Feb 14 00:03:06 2017 +0800
+
+    Add float to pollution.html
+
+commit 0f6b384dd8bb20e0f836762f3ee8e585d7abac71
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 23:44:50 2017 +0800
+
+    Fixed dropdown box
+
+commit 9ce9f1d6124205bee8cd156b34ddb8411ebdcdb0
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 23:38:13 2017 +0800
+
+    Fixed and modified in gallery.html, specificall on the headers
+
+commit 776ba2c9294b6777ab0623ae85b9a93adc9b07ab
+Merge: 8045c39 4c1c682
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 23:25:30 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 8045c399af9d7c8a1c54279a6684fd00ba70a36f
+Merge: 8171732 4cc478f
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 23:24:53 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit 8171732dfc86a9beb7c6801ff2f12d601075a19b
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 23:24:31 2017 -1200
+
+    changed the font for gallery captions
+
+commit 4c1c682a9d21ec5bce4a8456b8b78c830591504c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 23:25:39 2017 +0800
+
+    Modify properties of footer
+
+commit 4cc478f7079b4487afb9a61eb68b2270c0401d33
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 23:22:02 2017 +0800
+
+    I fixed the footer
+
+commit 3ae1442f407edee11ef6884b9613e73706aa5ffd
+Merge: a569bff d15c201
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Mon Feb 13 23:21:00 2017 +0800
+
+    added about.html
+
+commit d15c20141efb0cc087e54e78b79e6629187299b5
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 23:19:19 2017 +0800
+
+    Fixed the alignment of photos
+
+commit c8e39d2d0295e0afcfefc71e2922b9573649cd39
+Merge: a5576ca e853ddc
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 23:10:01 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit a5576caaea4309c389d47e666ea7112efb1b2732
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 23:09:40 2017 -1200
+
+    removed the borders
+
+commit ed74cd1f489b509c5401219d8654a70e31fc0ab5
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:52:32 2017 -1200
+
+    changed the background colors for contact forms
+
+commit de0600214bf3a83739997682fc91b740d656e9f0
+Merge: f788a49 7fe8c07
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:49:55 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit f788a499896022c9751e303163c47d2204931cd9
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:49:28 2017 -1200
+
+    changed the font colors
+
+commit a569bffb3a5a151ff3efa5f2f51341824d7c9a31
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Mon Feb 13 23:01:24 2017 +0800
+
+    added about.html
+
+commit e853ddc584785fe339ea4ea7500a101c4865ef2e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:58:37 2017 +0800
+
+    Removed question mark in banner
+
+commit 1e415f7494c36a144e36caa780c66c6370d024c8
+Merge: f6c5e1a ed74cd1
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:54:00 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolve conflicts
+
+commit f6c5e1aee0ae818103785bcff2705813892bee63
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:51:08 2017 +0800
+
+    Added columns for aboutus.html
+
+commit 7fe8c072d3a9cd7af13caeca9f78f99a3fc7ab46
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:45:27 2017 +0800
+
+    Change class name for the content of aboutus.html
+
+commit 98e12b9a69ddb1c84c0dce505d916078816f1574
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:42:13 2017 +0800
+
+    Added hyperlink for joinnow in gallery and about us
+
+commit e7383c0c5a258b7888338339869ed1a7ce2ab6b8
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:38:35 2017 +0800
+
+    Change banner color
+
+commit 71ef32d7876d6c1a5358950b36eccba1f826f5cf
+Merge: 4f66db6 f4a6b5d
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:35:36 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolve conflict
+
+commit 4f66db6c27d8fa5e4572c017f6c8551e6596b5db
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:35:26 2017 +0800
+
+    Modified font colors, background color
+
+commit f4a6b5dea591354238404882125c3f3c3668a8ca
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Mon Feb 13 22:31:15 2017 +0800
+
+    added css styles for about
+
+commit 8836f45104c39918b080fe06dcaeb1631c5858dc
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:27:00 2017 -1200
+
+    added css styles for contact specifically home and join now page
+
+commit 913c1a6c6d66ec2c428361014108c30e54a2c027
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:25:24 2017 -1200
+
+    edited the id so that we can add css style
+
+commit 6bf0ef86b369f82972a30c3abb8cd0b5f5ccabe0
+Merge: ea04732 d8e5a70
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:20:35 2017 -1200
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit ea04732e5438abd1b6aa837845b8aacea97d2d8b
+Author: franchesca <chescaderije@gmail.com>
+Date:   Mon Feb 13 22:18:19 2017 -1200
+
+    added css styles for contact specifically join now and home
+
+commit 7b4f694630e681eea577b40308326cf2bb7c1013
+Merge: cd38ea2 d8e5a70
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:19:26 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolving conflict
+
+commit cd38ea23bd49ae3c080654b7b08599062785cc80
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:19:13 2017 +0800
+
+    Modified float of photo
+
+commit d8e5a70129ca7dbe13ebe2278fd4d0a2386f77ff
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Mon Feb 13 22:14:49 2017 +0800
+
+    Edited about.html
+
+commit ce0a80ec14d0d00b68e923302b07f5f06baef750
+Merge: a42b65b 5ebe90f
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:08:05 2017 +0800
+
+    Resloved conflict
+
+commit a42b65bdc9edb11291290a7f25f0d5912b19bf3e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 22:06:03 2017 +0800
+
+    removed table in aboutus.html because it's inappropriate
+
+commit 5ebe90f277814fd342dc973bb0b19132420ffd72
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 22:02:55 2017 +0800
+
+    Placed missing tag for the css of joinnow.html
+
+commit c7d731c2db5d44d7f70f907925822d058283ac5c
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 22:01:01 2017 +0800
+
+    Fixed Duplicates
+
+commit c5579150eacb1ed49f53339f6bfb1c4002c55d5b
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 22:00:04 2017 +0800
+
+    Fixed Duplicates
+
+commit 7ee3a080b562328b15f21aee27ad720bb78a4d5c
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:58:32 2017 +0800
+
+    Fixed Duplicates
+
+commit 6b6eb444d318c50ec1946a4f20dba5f854d922c6
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:55:51 2017 +0800
+
+    Added tags
+
+commit 482eba145f7cef91ccba44ceca875b276c2d56cf
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:46:46 2017 +0800
+
+    Added pictures
+
+commit 3370ebbf8e1e91dec1c39723c7cc832a84312dab
+Merge: ea81589 fe428cf
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 21:37:20 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+    Resolving conflict
+
+commit fe428cf78fb96c033ced487c4ac2103826e69fb9
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:36:10 2017 +0800
+
+    Fixed duplicates
+
+commit 20fdf12a40f9c313252c5a39a82fe8d8eac9c39d
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:34:38 2017 +0800
+
+    Corrected a typo
+
+commit 9f17214053136d9ffbb078919b5488f683e8224a
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:33:18 2017 +0800
+
+    Fixed duplicates
+
+commit ea815897de526e7b022f485d9562d11f638e2b23
+Merge: 9f0560d ccaaea2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 21:28:19 2017 +0800
+
+    Merge branch 'master' of https://github.com/IsmaelLangit/9421B-G4
+
+commit ccaaea27f09372e07c5b1fe9435d148518bc0fb8
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:27:56 2017 +0800
+
+    Added tags
+
+commit 9f0560dead2cec2ece367a5a83c1a70e0ac41f26
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 21:27:36 2017 +0800
+
+    moved the logo on the nav to the left
+
+commit ac81bf38214b9a11ca68f41058f306d02c0988a4
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 21:24:43 2017 +0800
+
+    Added pictures
+
+commit 1ee1b493b49df169931f6f6d5a66cb32a4af0fba
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 21:21:06 2017 +0800
+
+    I centered the banner quote
+
+commit 1b4ea619efc20b54e35d143bf5d635cad4a86d4e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 21:19:00 2017 +0800
+
+    Mofied content alignment via css
+
+commit 4911f47b63fa3cd015028f0bb7db02de0c9d2228
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 20:56:00 2017 +0800
+
+    Modified errors based on html validator
+
+commit 69ff661292106bad7f8d2af49e02e7dc72da5902
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 20:33:54 2017 +0800
+
+    Moved css to folder
+
+commit f613b14eb2010415d5286c621e4ff1183fca835f
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 19:14:38 2017 +0800
+
+    Added missing tags
+
+commit 431841cf39f42133fc458b6f9c1d6e718270871f
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 19:12:04 2017 +0800
+
+    Organized files
+
+commit 7e0966bf2bb931e376b23fdecbb16f13b8db1629
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 19:10:40 2017 +0800
+
+    Added pictures
+
+commit 6d2d025a47dc2488dfb7bac0760bb1835f0571ad
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Mon Feb 13 17:23:01 2017 +0800
+
+    Fixed the body of the CSS
+
+commit fd7553134b32568790fce87ab8bdc8bcd3629715
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Mon Feb 13 17:22:04 2017 +0800
+
+    Fixed the alignment of the gallery
+
+commit 336a1b208850d6c8967b15a879a306dccab48b43
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 17:19:50 2017 +0800
+
+    Addded pictures
+
+commit 699d4c4af4b58245af43a36f8a65d6fe7447aebd
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Mon Feb 13 17:18:27 2017 +0800
+
+    Added pictures for css
+
+commit 53d5245a42d29096330ff34947f77bd9ae17dd71
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Mon Feb 13 17:17:47 2017 +0800
+
+    added a background color for the contact form
+
+commit 036bf24065e2e9a176254e5fafcc1383405824d9
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Mon Feb 13 17:02:16 2017 +0800
+
+    added a css style for the send button of join now and home
+
+commit d1896772dfff9313349e038518a3fb21f99cb0b2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 16:48:00 2017 +0800
+
+    Added join now in nav
+
+commit 1be75215103bc85d71910b0b0c05858572ffe75a
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Mon Feb 13 16:42:07 2017 +0800
+
+    Removed duplicate
+
+commit 934cf3b8e6acd58bc458ceefafc73f0d12066593
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Mon Feb 13 16:37:51 2017 +0800
+
+    fixed grammatical errors
+
+commit c5df4ded8ca3b06a87f6a24d508a45c98a09a048
+Author: franchescaderije <chescaderije@gmail.com>
+Date:   Mon Feb 13 16:35:43 2017 +0800
+
+    changed the font specifically to the issues page
+
+commit e8a2b152aa81a36125aba197c72aa8f3a1bce9ff
+Author: franchescaderije <2153678@slu.edu.ph>
+Date:   Sun Feb 12 22:23:15 2017 +0800
+
+    Add files via upload
+    
+    changed the font style and size to the global warming page
+
+commit 78dd1501cf2b01a8bb2270d6933d3266ae4c854e
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 21:44:19 2017 +0800
+
+    Modifying content for two columns
+
+commit 65571884440d1d5d1d6697758dbef88cb2e9a23c
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 19:38:22 2017 +0800
+
+    Edit footer
+
+commit 5165924a839d4772901ac7abd0f6b743299f542a
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 19:34:22 2017 +0800
+
+    Proper indentation
+
+commit fb15ceabd8a0930430160ea5b232c5fd11f7af78
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 19:28:33 2017 +0800
+
+    Edited body.css
+
+commit 8608c36817f8bba5142010864d54dc6a127c1c62
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 18:51:12 2017 +0800
+
+    Empty two css files
+
+commit b0542c0ef65dfec9fd11587c15af1c8501021f96
+Author: micaelabravo <mariamicaela.bravo26@gmail.com>
+Date:   Sun Feb 12 17:57:40 2017 +0800
+
+    Added ID's to tags
+
+commit 0d7f8ca6f5721010339c48efd9175d21eb7f9eba
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 12 13:27:06 2017 +0800
+
+    Edited pollution.html
+
+commit 417b9e6e1e323b734b47229806cef4bf12d23b1b
+Author: Crizza Pascual <Crizza Pascual>
+Date:   Sun Feb 12 13:15:58 2017 +0800
+
+    Edited the pollution.html
+
+commit 9e1c516ad6c9e776a170301cc97394c8b3393a72
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 12:37:01 2017 +0800
+
+    Proper indentation
+
+commit e42bd44bfda942d5f3dcf30cec63f421065fc0db
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 12:30:26 2017 +0800
+
+    Removed table
+
+commit 8df24558d1e3b13e4a8a34d9528672cf94278022
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 12 12:24:34 2017 +0800
+
+    Added ID
+
+commit 7e08dd8a8b4ceb386aa35a4a4a23b34901fde249
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 19:59:29 2017 +0800
+
+    Added id to the paragraphs and headers of the articles page
+
+commit 0e0adfe619394fa38fc79073234f60a890bce848
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sat Feb 11 19:52:43 2017 +0800
+
+    Added css for navigator
+
+commit 784d0fa17f295e00208e8ee9755314c8e91260c8
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 19:50:54 2017 +0800
+
+    Added id to the paragraphs and headers of the about page
+
+commit d612be4b4ea26c7ccec825acccbc0446f8c5c83e
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 19:03:31 2017 -1200
+
+    added id to the paragraphs and headers to the gallery page
+
+commit c51238607c2efa9ad13d6c0b0facdee3eab3e69d
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:56:23 2017 -1200
+
+    added id to the paragraphs and headers to the pollution page
+
+commit f6bf6788899d2c97cd9e7e071c148a45658eea20
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:27:02 2017 -1200
+
+    added id to the paragraphs and headers to the globalwarming page
+
+commit 8204d12636d83c68822d03be15c5185850a94301
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:22:53 2017 -1200
+
+    added id to the paragraphs and headers
+
+commit 3be3360875c4539a0170f2a76e9c635eda2fa996
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:17:48 2017 -1200
+
+    added id to the paragraphs and headers
+
+commit ddb991c8cb4bfb64ef7b0c3b85a81ada3860736d
+Merge: ae4ab89 db984a4
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:12:50 2017 -1200
+
+    added id to the paragraphs and headers
+
+commit ae4ab8984033b720afc65373cdded5fd00cb6e50
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:10:12 2017 -1200
+
+    pol
+
+commit 0e7d4645eae20b115ef73ee235351e77dba0c760
+Author: franchesca <chescaderije@gmail.com>
+Date:   Sat Feb 11 18:08:51 2017 -1200
+
+    added id to the paragraphs and headers
+
+commit db984a47d608a105edfb5aa3181328c85e5abbd7
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:44:00 2017 +0800
+
+    Resized pictures
+
+commit edec88867cbbdae112d14dd47d2fa54b8dd5a75c
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:43:11 2017 +0800
+
+    Resized pictures
+
+commit 91e103631c1d85e95cb81483f4cce9b7a10dd1a8
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:42:33 2017 +0800
+
+    Resized pictures
+
+commit ee7626a0a79774af344750c8026703115ab8378b
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:41:48 2017 +0800
+
+    Resized pictures
+
+commit 9d0ac9550b44cb45a79dc90e172c53a7c4afdbde
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:40:28 2017 +0800
+
+    Resized pictures
+
+commit eb9aac83527e62ac44ba80c462ee564226c1a29c
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:39:39 2017 +0800
+
+    resized pictures
+
+commit 7a1ea3b7b8a3b25e5aba6848b87176604146c5aa
+Author: marinelleAlegre <biku.tomoshimasen@gmail.com>
+Date:   Sat Feb 11 17:38:43 2017 +0800
+
+    resized picture
+
+commit 5ed37c99fe9448812ab2a2d680160138230fd5f2
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 22:24:22 2017 +0800
+
+    Deleted not neccesary folder
+
+commit 03be76bbe9cac4c533e6c7f17048311a1bc377ea
+Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
+Date:   Sun Feb 5 22:23:13 2017 +0800
+
+    Added missing letters, removes white-spaces
+
 commit 1383afe6ba99f05545c6861dd59ac538a1b75ec5
 Author: IsmaelLangit <ismaelcruzlangit@gmail.com>
 Date:   Sun Feb 5 22:16:30 2017 +0800
