@@ -91,7 +91,10 @@ fieldset {
 	
 }
 
-.noaccount, .joinnow{
+.noaccount, .joinnow{	
+	border-radius: 20px;
+	width:100%;
+	line-height: 25px;
     border-style: solid;
     border-width: 1px;
    	border-color: green;
@@ -102,6 +105,7 @@ fieldset {
 	padding : 10px;
 	margin-right: 10%;
 	text-align: center;
+	
 }
 
 
