@@ -53,8 +53,8 @@ nav ul.nav {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
-    background-color: #D6CC89;
-    margin-top:15px;
+    background-color:  #0d0d0d;
+    margin-top:20px;
 }
     
 .nav li {
@@ -70,9 +70,8 @@ nav ul.nav {
     
 .nav li a {
         display: block;
-        color: black;
+        color: rgb(0, 204, 102);
         text-align: center;
-        padding: 14px 16px;
         text-decoration: none;
 }
 
