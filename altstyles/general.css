@@ -83,6 +83,7 @@ strong {
 
 fieldset {
     border: 0;
+    width: 100%;
 }
 
 #submitbuttonindex button{
@@ -113,7 +114,14 @@ fieldset {
 	text-align: center;
 	
 }
-
+.noaccount{
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 100px;
+}
+.joinnow{
+	margin-left: 50px;
+}
 
 
 button{
