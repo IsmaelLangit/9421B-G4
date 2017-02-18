@@ -1,11 +1,14 @@
 .banner {
-background-size : cover;
-background-repeat : no-repeat;
 text-align : center;
-background-attachment: fixed;
-top : 50px;
-height : 450px;
-padding-top : 300px;
+height : auto;
+background-color:  #e6ffe6;
+margin: 80px 250px 20px 250px;
+padding: 20px;
+}
+
+.container {
+	background-color: white;
+	margin: 10px 200px;
 }
 
 
