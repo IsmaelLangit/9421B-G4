@@ -17,12 +17,11 @@ body {
 }
 
 .banner p{
-	font-size : 20px;
+	font-size : 25px;
 	padding : 0px 180px;
 	font-family: "Georgia";
-	font-weight: bold;
 	text-align: center;
-	color : #ccffcc;
+	color :  #92CD00;
 
 }
 
@@ -38,12 +37,12 @@ body {
 
 /* unvisited link */
 a:link {
-    color: #ffd9b3;
+    color:  white;
 }
 
 /* visited link */
 a:visited {
-    color: #ffd9b3;
+    color:  white;
 }
 
 /* mouse over link */
