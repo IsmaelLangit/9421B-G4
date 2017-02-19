@@ -218,7 +218,7 @@ fieldset {
     width: 100%;
 }
 
-#submitbuttonsign button{
+#submitbuttonsign button, #submitbuttonregister button{
 	font-family: "Georgia";
 	font-size:20;
 	width: auto;
