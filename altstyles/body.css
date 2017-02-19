@@ -60,9 +60,7 @@ box-shadow: 10px 10px 5px #888888;
 }
 .pictures:hover  {
 	cursor: pointer;
-	-moz-box-shadow: 0 0 10px #ccc; 
-	-webkit-box-shadow: 0 0 10px #ccc; 
-	box-shadow: 0 0 10px #ccc;
+	box-shadow: 10px 10px 5px #888888;
 }
 .pictures:hover img {
 	-moz-transform: scale(1.1);
