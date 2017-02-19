@@ -67,7 +67,7 @@ h2 {
 	color : #1a1a00;
 	clear: both;
 }
-.content-globalwarming h2, .content-index h2 {
+.content-globalwarming h2, .content-index h2, .content-climatechange h2 {
 	font-size: 50px;
 	color: #1a1a00;
 	font-weight: bold;
@@ -89,7 +89,7 @@ text-align: left;
 	color : white;
 }
 
-.content-globalwarming h2{
+.content-globalwarming h2, .content-climatechange h2{
 text-align: center;
 }
 
@@ -132,12 +132,28 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
- .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p{
+ .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p, .article p{
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
 	color :  #2C6700;
 	box-shadow: 10px 10px 5px #888888;
+}
+
+.article p{
+	margin :0;
+	padding : 10px 100px;
+}
+.article h2 {
+	font-size: 50px;
+	color: #1a1a00;
+	font-weight: bold;
+	text-align: center;
+}
+
+.article h3 {
+	margin : 0 100px;
+	text-align: center;
 }
 
 .content-climatechange img {
@@ -277,8 +293,6 @@ figcaption {
 .sendform {
 	padding: 20px;
 }	
-
-
 
 
 #nameismael{
