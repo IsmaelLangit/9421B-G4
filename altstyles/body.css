@@ -65,14 +65,20 @@ padding: 20px;
 .gallery1, .gallery2, .gallery3 {
 	column-count: 3;
 }
-
 .pictures {
 	height : 350px;
 	width : 400px;
 	margin-bottom: 50px;
 	text-align: center;
 }
-
+.pictures:hover  {
+	cursor: pointer;
+}
+.pictures:hover img {
+	-moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
 .content-gallery h3 {
 	width : 100%;
 	margin-top: 20px;
