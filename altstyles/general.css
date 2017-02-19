@@ -222,13 +222,17 @@ fieldset {
 	font-family: "Georgia";
 	font-size:20;
 	width: auto;
-	background-color:green;
+	background-color:lightgreen;
 	color:white;
 	font-size:24px;
 	padding: 10px 20px;
 	margin-top: 10px;
 	
 }
+
+#submitbuttonsign button:hover, #submitbuttonregister button:hover{
+	background-color:#7fff00;
+	}
 
 .noaccount, .joinnow{	
 	border-radius: 20px;
@@ -237,7 +241,7 @@ fieldset {
     border-style: solid;
     border-width: 1px;
    	border-color: green;
-	background-color:#323232;
+	background-color:green;
 	float: left;
 	box-sizing: border-box;
 	margin-bottom: 100px;
