@@ -131,9 +131,17 @@ box-shadow: 10px 10px 5px #888888;
 	padding-left: 20px;
 }
 
-#landpollution2-article {
+#landpollution2-article, #airpollution2-article{
 	box-shadow: none;
 
+}
+
+#pollutionairheader2 {
+	clear: both;
+}
+
+#airpollution2-article img{
+	padding-left: 150px;
 }
 
 #waterpollution1-article img, .air img{

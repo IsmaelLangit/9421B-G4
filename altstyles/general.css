@@ -132,7 +132,7 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
- .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p, .article p, .water-content ul{
+ .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p, .article p, .content ul, .content-top p{
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
@@ -293,6 +293,11 @@ figcaption {
 .sendform {
 	padding: 20px;
 }	
+
+.content-index ul{
+	background-color: white;
+	box-shadow: none;
+}
 
 
 #nameismael{
