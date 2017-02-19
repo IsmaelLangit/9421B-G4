@@ -132,7 +132,7 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
- .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p, .article p{
+ .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p, .article p, .water-content ul{
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;

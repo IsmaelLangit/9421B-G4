@@ -135,6 +135,33 @@ box-shadow: 10px 10px 5px #888888;
 	box-shadow: none;
 
 }
+
+#waterpollution1-article img, .air img{
+	height : 340px;
+}
+
+.aboutcontent{
+  width: 26.4%;
+  background-color: #92CD00;
+  color: #2C6700;
+  box-shadow: 10px 10px 5px #888888;
+  margin: 25px;
+}
+
+.about h3{
+  text-align: center;
+  padding: 10px 20px;
+}
+.about h4{
+  text-align: center;
+  padding: 10px 20px;
+}
+.about p{
+  text-align: center;
+  padding: 10px 20px;
+  line-height: 1.2
+}
+
 	
 footer {
 clear :both;
