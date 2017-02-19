@@ -60,7 +60,12 @@ h2 {
 	font-size : 28px;
 	font-family: "Impact";
 	padding: 10px 0;
-	color : black;
+	color : #1a1a00;
+}
+.content-index h2 {
+	font-size: 40px;
+	color: #1a1a00;
+	text-align: left;
 }
 
 .content-climatechange h2 {
