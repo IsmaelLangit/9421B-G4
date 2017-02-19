@@ -62,7 +62,6 @@ box-shadow: 10px 10px 5px #888888;
 }
 .pictures:hover  {
 	cursor: pointer;
-	padding: 20px;
 	box-shadow: 10px 10px 5px #888888;
 }
 .content-gallery h3 {
