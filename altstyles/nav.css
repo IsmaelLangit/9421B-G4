@@ -85,7 +85,12 @@ nav .dropdown-content a {
 .nav li:last-child {
     float: left;
     background-color: #A9D18E;
-    background: linear-gradient(to right, #A9D18E , green);
+    border-style: solid;
+    border-width: 5px;
+    border-left-style: none;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-color: white;
 }
     
 .nav li a:hover {
