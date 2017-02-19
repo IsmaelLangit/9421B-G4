@@ -1,0 +1,312 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+* {
+margin : 0;
+padding : 0;
+list-style : none;
+text-decoration : none;
+}
+
+body {
+	background-size: cover;
+	width: 100%;
+	background: linear-gradient(to bottom right, #dcdcdc, white);
+}
+
+.banner p{
+	font-size : 25px;
+	padding : 0px 180px;
+	font-family: "Georgia";
+	text-align: center;
+	color :  #92CD00;
+
+}
+
+.banner:hover {
+	    box-shadow: 20px 15px 15px #888888;
+}
+
+
+
+.banner cite{
+	font-size : 25px;
+}
+
+/* unvisited link */
+a:link {
+    color:  white;
+}
+
+/* visited link */
+a:visited {
+    color:  white;
+}
+
+/* mouse over link */
+a:hover {
+    color: lightgreen;
+}
+
+/* selected link */
+a:active {
+    color: #00b386;
+}
+
+h1 {
+	font-size : 50px;
+	font-family: "Impact";
+	color: #267326;
+}
+
+h2 {
+	font-size : 28px;
+	font-family: "Bebas";
+	color : #1a1a00;
+	clear: both;
+}
+.content-globalwarming h2, .content-index h2, .content-climatechange h2 {
+	font-size: 50px;
+	color: #1a1a00;
+	font-weight: bold;
+}
+.content-index h2{
+text-align: left;
+}
+
+#Accounttitle1, #Accounttitle2, #sendmsgtitle, #beparttitle, #donthavetitle, #signuptitle{
+	color : black;
+	background-color: #DCDCDC;
+	width: 100%;
+	font-size: 30px;
+	padding: 5px 0;
+	margin: 0;
+}
+
+.rightform strong, .leftform strong {
+	color : white;
+}
+
+.content-globalwarming h2, .content-climatechange h2{
+text-align: center;
+}
+
+.content-climatechange h2 {
+	text-align: left;
+}
+.content-gallery {
+	margin-left: 30px;
+}
+
+h3 {
+	font-size : 26px;
+	font-family: "Georgia";
+	color: #022d04;
+}
+
+.content-index h3 {
+	font-size: 35px;
+}
+
+.content-index li {
+	height : 200px;
+	margin-bottom: 50px;
+}
+
+.content-index ul li{
+	font-size: 25px;
+}
+
+
+h4 {
+	font-size : 24px;
+}
+
+p, ul, li, input, textarea{
+	font-size : 22px;
+	font-family: "Afta Sans";
+	padding-right : 10%;
+	text-align: justify;
+	color :  #2f3e0f;
+}
+
+ .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p, .article p, .water-content ul{
+	background-color:  #92CD00;
+	padding: 34px;
+	margin-bottom: 50px;
+	color :  #2C6700;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.article p{
+	margin :0;
+	padding : 10px 100px;
+}
+.article h2 {
+	font-size: 50px;
+	color: #1a1a00;
+	font-weight: bold;
+	text-align: center;
+}
+
+.article h3 {
+	margin : 0 100px;
+	text-align: center;
+}
+
+.content-climatechange img {
+	clear : both;
+}
+
+
+.left h3, .right h3 {
+	text-align: center;
+}
+
+.right img {
+	float: left;
+}
+
+
+.globalwarming p {
+	padding-bottom: 50px;
+}
+
+.globalwarming h1 {
+	padding-bottom: 25px;
+}
+
+
+strong {
+	color : #004d00;	
+
+}
+.content-buttom strong {
+	color : #dcdcdc;
+}
+
+
+.container{
+	float:left;
+	padding-top: 10vh;
+	border:none;
+	width:70%;
+	box-shadow: 10px 10px 5px #888888;
+}
+.content-buttom{
+	border-radius: 20px;
+	margin-left: 300px;
+	background-color:#323232;
+	width:850px;
+	border:none;
+	float: left;
+	box-sizing: border-box;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	padding : 10px;
+	box-shadow: 10px 10px 5px #888888;
+
+}
+
+.container {
+	box-shadow: 10px;
+}
+fieldset {
+    border: 0;
+    width: 100%;
+}
+
+#submitbuttonsign button{
+	font-family: "Georgia";
+	font-size:20;
+	width: auto;
+	background-color:lightgreen;
+	color:black;
+	font-size:24px;
+	padding: 0px 20px;
+	margin-top: 10px;
+	
+}
+
+.noaccount, .joinnow{	
+	border-radius: 5px;
+	width:100%;
+	line-height: 25px;
+        border-style: solid;
+        border-width: 1px;
+   	border-color: black;
+	background-color:#2C6700;
+	float: left;
+	box-sizing: border-box;
+	margin-bottom: 100px;
+	padding : 10px;
+	margin-right: 10%;
+	text-align: center;
+	box-shadow: 10px 10px 5px #888888;
+	
+}
+.noaccount{
+	margin-right: 10px; 
+	margin-left: 0px;
+	width: 100px;
+}
+
+.joinnow{
+	margin-left: 40px;
+}
+
+
+
+#submitbuttonindex button{
+	font-family: "Georgia";
+	font-size:20;
+	width: auto;
+	background-color:lightgreen;
+	color:black;
+	font-size:24px;
+	padding: 10px 20px;
+	margin: 5px;
+}
+
+#submitbuttonindex button:hover{
+	background-color:lightgreen;
+	color : black;
+	}
+
+textarea {
+	font-family: "Calibri";
+    width: 90%;
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+}
+figure, figcaption{
+	font-family: "Georgia";
+}
+figcaption {
+	font-size: 1em;
+	line-height: .90em;
+}
+
+.sendform {
+	padding: 20px;
+}	
+
+
+#nameismael{
+	text-shadow: 0 1px 0 rgb(128,141,147) , -1px 0 0 rgb(205,210,213) , -1px 2px 0 rgb(128,141,147) , -2px 1px 0 rgb(205,210,213) , -2px 3px 0 rgb(128,141,147) , -3px 2px 0 rgb(205,210,213) , -3px 4px 0 rgb(128,141,147) , -4px 3px 0 rgb(205,210,213) , -4px 5px 0 rgb(128,141,147) , -5px 4px 0 rgb(205,210,213) , -5px 6px 0 rgb(128,141,147) , -6px 5px 0 rgb(205,210,213) , -6px 7px 0 rgb(128,141,147) , -7px 6px 0 rgb(205,210,213) , -7px 8px 0 rgb(128,141,147) , -8px 7px 0 rgb(205,210,213);
+}
+#namefranchesca{
+	text-shadow: 0 1px 0 rgb(128,141,147) , -1px 0 0 rgb(205,210,213) , -1px 2px 0 rgb(128,141,147) , -2px 1px 0 rgb(205,210,213) , -2px 3px 0 rgb(128,141,147) , -3px 2px 0 rgb(205,210,213) , -3px 4px 0 rgb(128,141,147) , -4px 3px 0 rgb(205,210,213) , -4px 5px 0 rgb(128,141,147) , -5px 4px 0 rgb(205,210,213) , -5px 6px 0 rgb(128,141,147) , -6px 5px 0 rgb(205,210,213) , -6px 7px 0 rgb(128,141,147) , -7px 6px 0 rgb(205,210,213) , -7px 8px 0 rgb(128,141,147) , -8px 7px 0 rgb(205,210,213);
+}
+#namemarinelle{
+	text-shadow: 0 1px 0 rgb(128,141,147) , -1px 0 0 rgb(205,210,213) , -1px 2px 0 rgb(128,141,147) , -2px 1px 0 rgb(205,210,213) , -2px 3px 0 rgb(128,141,147) , -3px 2px 0 rgb(205,210,213) , -3px 4px 0 rgb(128,141,147) , -4px 3px 0 rgb(205,210,213) , -4px 5px 0 rgb(128,141,147) , -5px 4px 0 rgb(205,210,213) , -5px 6px 0 rgb(128,141,147) , -6px 5px 0 rgb(205,210,213) , -6px 7px 0 rgb(128,141,147) , -7px 6px 0 rgb(205,210,213) , -7px 8px 0 rgb(128,141,147) , -8px 7px 0 rgb(205,210,213);
+}
+#namemaria{
+	text-shadow: 0 1px 0 rgb(128,141,147) , -1px 0 0 rgb(205,210,213) , -1px 2px 0 rgb(128,141,147) , -2px 1px 0 rgb(205,210,213) , -2px 3px 0 rgb(128,141,147) , -3px 2px 0 rgb(205,210,213) , -3px 4px 0 rgb(128,141,147) , -4px 3px 0 rgb(205,210,213) , -4px 5px 0 rgb(128,141,147) , -5px 4px 0 rgb(205,210,213) , -5px 6px 0 rgb(128,141,147) , -6px 5px 0 rgb(205,210,213) , -6px 7px 0 rgb(128,141,147) , -7px 6px 0 rgb(205,210,213) , -7px 8px 0 rgb(128,141,147) , -8px 7px 0 rgb(205,210,213);
+}
+#namecrizza{
+	text-shadow: 0 1px 0 rgb(128,141,147) , -1px 0 0 rgb(205,210,213) , -1px 2px 0 rgb(128,141,147) , -2px 1px 0 rgb(205,210,213) , -2px 3px 0 rgb(128,141,147) , -3px 2px 0 rgb(205,210,213) , -3px 4px 0 rgb(128,141,147) , -4px 3px 0 rgb(205,210,213) , -4px 5px 0 rgb(128,141,147) , -5px 4px 0 rgb(205,210,213) , -5px 6px 0 rgb(128,141,147) , -6px 5px 0 rgb(205,210,213) , -6px 7px 0 rgb(128,141,147) , -7px 6px 0 rgb(205,210,213) , -7px 8px 0 rgb(128,141,147) , -8px 7px 0 rgb(205,210,213);
+}
