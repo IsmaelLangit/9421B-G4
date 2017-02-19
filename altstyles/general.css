@@ -11,9 +11,9 @@ text-decoration : none;
 }
 
 body {
-	background-color: #dcdcdc;
 	background-size: cover;
 	width: 100%;
+	background: linear-gradient(to bottom right, #dcdcdc, white);
 }
 
 .banner p{
