@@ -60,7 +60,7 @@ h1 {
 	font-size : 30px;
 	font-family: "Impact";
 	padding: 15px 0;
-	color: #006622;
+	color: #267326;
 	text-shadow: -2px -2px 1px rgb(255,255,255) , -1px -1px 1px rgb(255,255,255) , 1px 1px 1px rgba(232,247,255,0.901961) , 1px 1px 0 rgb(42,101,139) , 2px 2px 0 rgb(41,99,138) , 3px 3px 0 rgb(40,97,136) , 4px 4px 0 rgb(39,95,133) , 5px 5px 0 rgb(38,93,131) , 6px 6px 0 rgb(37,90,128) , 7px 7px 0 rgb(36,87,125) , 8px 8px 0 rgb(35,84,121) , 9px 9px 0 rgb(33,80,117) , 10px 10px 0 rgb(31,76,113) , 11px 11px 0 rgb(30,72,108) , 12px 12px 1px rgba(28,67,103,0.498039) , 14px 14px 12px rgba(5,13,20,0.498039);
 }
 
@@ -138,12 +138,9 @@ strong {
 	box-shadow: 10px 10px 5px #888888;
 }
 .content-buttom{
-	background: -moz-linear-gradient(top, #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); 
-	background: -webkit-linear-gradient(top, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); 
-	background: linear-gradient(to bottom, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); 
 	border-radius: 20px;
 	margin-left: 300px;
-	background-color:#a0d8a6;
+	background-color:#39ac39;
 	width:850px;
 	border:none;
 	float: left;
@@ -151,7 +148,8 @@ strong {
 	margin-top: 20px;
 	margin-bottom: 100px;
 	padding : 10px;
-	
+	box-shadow: 10px 10px 5px #888888;
+
 }
 
 .container {
@@ -181,7 +179,7 @@ fieldset {
     border-style: solid;
     border-width: 1px;
    	border-color: green;
-	background-color:#a0d8a6;
+	background-color:#39ac39;
 	float: left;
 	box-sizing: border-box;
 	margin-bottom: 100px;
@@ -218,7 +216,7 @@ button{
 }
 
 textarea {
-	font-family: Calibri;
+	font-family: "Calibri";
     width: 90%;
     height: 150px;
     line-height: 150%;
@@ -242,4 +240,17 @@ figure, figcaption{
 #namecrizza{
 	text-shadow: 0 1px 0 rgb(128,141,147) , -1px 0 0 rgb(205,210,213) , -1px 2px 0 rgb(128,141,147) , -2px 1px 0 rgb(205,210,213) , -2px 3px 0 rgb(128,141,147) , -3px 2px 0 rgb(205,210,213) , -3px 4px 0 rgb(128,141,147) , -4px 3px 0 rgb(205,210,213) , -4px 5px 0 rgb(128,141,147) , -5px 4px 0 rgb(205,210,213) , -5px 6px 0 rgb(128,141,147) , -6px 5px 0 rgb(205,210,213) , -6px 7px 0 rgb(128,141,147) , -7px 6px 0 rgb(205,210,213) , -7px 8px 0 rgb(128,141,147) , -8px 7px 0 rgb(205,210,213);
 }
-
+#sendmsgtitle{
+	font-family: "Impact";
+	color: #00b33c;
+	text-shadow: -2px -2px 1px rgb(255,255,255) , -1px -1px 1px rgb(255,255,255) , 1px 1px 1px rgba(232,247,255,0.901961) , 1px 1px 0 rgb(42,101,139) , 2px 2px 0 rgb(41,99,138) , 3px 3px 0 rgb(40,97,136) , 4px 4px 0 rgb(39,95,133) , 5px 5px 0 rgb(38,93,131) , 6px 6px 0 rgb(37,90,128) , 7px 7px 0 rgb(36,87,125) , 8px 8px 0 rgb(35,84,121) , 9px 9px 0 rgb(33,80,117) , 10px 10px 0 rgb(31,76,113) , 11px 11px 0 rgb(30,72,108) , 12px 12px 1px rgba(28,67,103,0.498039) , 14px 14px 12px rgba(5,13,20,0.498039);
+}
+#namestrong{
+	color: #00b33c;
+}
+#emailstrong{
+	color: #00b33c;
+}
+#messagestrong{
+	color: #00b33c;
+}
