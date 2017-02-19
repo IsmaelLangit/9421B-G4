@@ -87,6 +87,11 @@ h3 {
 	font-size: 35px;
 }
 
+.content-index li {
+	height : 200px;
+	margin-bottom: 50px;
+}
+
 .content-index ul li{
 	font-size: 25px;
 }
