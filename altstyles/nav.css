@@ -4,6 +4,11 @@
     src: local('SansationLight'), url('./SansationLight.woff') format('woff'), url('./SansationLight.ttf') format('truetype');
 }
 
+nav {
+position : fixed;
+z-index: 10;
+}
+
 nav li a,
 .dropbtn {
     display: inline-block;
