@@ -7,9 +7,10 @@ padding: 20px;
 box-shadow: 10px 10px 5px #888888;
 }
 
-.container {
+.container, .content-top, .article {
 	background-color: white;
 	margin: 10px 200px;
+	padding: 50px;
 }
 
 .protect, .promote, .educate {
