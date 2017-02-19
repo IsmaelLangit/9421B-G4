@@ -109,10 +109,6 @@ box-shadow: 10px 10px 5px #888888;
 	clear: both;
 }
 
-.article {
-	 clear: both;
-}
-
 .about {
 	padding : 0 50px;
 }
@@ -121,7 +117,7 @@ box-shadow: 10px 10px 5px #888888;
 	padding-bottom: 70px;
 }
 
-#deforestation-article {
+#deforestatiorticle {
 	padding-left: 50px;
 	padding-top: 50px;
 }
@@ -129,6 +125,10 @@ box-shadow: 10px 10px 5px #888888;
 #deforestation-article img{
 	float: left;
 	padding-right: 50px;
+}
+
+.content-deforestation p {
+	padding-left: 20px;
 }
 	
 footer {

@@ -132,7 +132,7 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
- .content-index p, .content-globalwarming ul{
+ .content-index p, .content-globalwarming ul, .content-climatechange ul{
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
@@ -140,7 +140,11 @@ p, ul, li, input, textarea{
 	box-shadow: 10px 10px 5px #888888;
 }
 
-.right p {
+.content-climatechange img {
+	clear : both;
+}
+
+.left p, .right p {
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
@@ -148,7 +152,7 @@ p, ul, li, input, textarea{
 	box-shadow: 10px 10px 5px #888888;
 }
 
-.right h3 {
+.left h3, .right h3 {
 	text-align: center;
 }
 
@@ -280,6 +284,8 @@ figcaption {
 .sendform {
 	padding: 20px;
 }	
+
+
 
 
 #nameismael{
