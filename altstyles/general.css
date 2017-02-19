@@ -12,7 +12,7 @@ body {
 }
 
 .banner p{
-	font-size : 35px;
+	font-size : 20px;
 	padding : 0px 250px;
 	font-family: "Georgia";
 	font-weight: bold;
@@ -20,8 +20,32 @@ body {
 	color : #001a00;
 }
 
+.banner:hover {
+	    box-shadow: 10px 10px 5px #888888;
+}
+
 .banner cite{
-	font-size : 38px;
+	font-size : 25px;
+}
+
+/* unvisited link */
+a:link {
+    color: #004d00;
+}
+
+/* visited link */
+a:visited {
+    color: #004d00;
+}
+
+/* mouse over link */
+a:hover {
+    color: lightgreen;
+}
+
+/* selected link */
+a:active {
+    color: #00b386;
 }
 
 h1 {
