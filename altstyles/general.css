@@ -71,11 +71,17 @@ h2 {
 	color : #1a1a00;
 	clear: both;
 }
-.content-index h2 {
+.content-globalwarming h2, .content-index h2 {
 	font-size: 50px;
 	color: #1a1a00;
-	text-align: left;
 	font-weight: bold;
+}
+.content-index h2{
+text-align: left;
+}
+
+.content-globalwarming h2{
+text-align: center;
 }
 
 .content-climatechange h2 {
@@ -114,17 +120,38 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
-.content-index p {
-	box-shadow: 10px 10px 5px #888888;
-}
-
-.content p, .content-index p{
+ .content-index p, .content-globalwarming ul{
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
 	color :  #2C6700;
+	box-shadow: 10px 10px 5px #888888;
 }
 
+.right p {
+	background-color:  #92CD00;
+	padding: 34px;
+	margin-bottom: 50px;
+	color :  #2C6700;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.right h3 {
+	text-align: center;
+}
+
+.right img {
+	float: left;
+}
+
+
+.globalwarming p {
+	padding-bottom: 50px;
+}
+
+.globalwarming h1 {
+	padding-bottom: 25px;
+}
 
 
 strong {
