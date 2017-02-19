@@ -132,7 +132,7 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
- .content-index p, .content-globalwarming ul, .content-climatechange ul{
+ .content-index p, .content-globalwarming ul, .content-climatechange ul, .left p, .right p{
 	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
@@ -144,13 +144,6 @@ p, ul, li, input, textarea{
 	clear : both;
 }
 
-.left p, .right p {
-	background-color:  #92CD00;
-	padding: 34px;
-	margin-bottom: 50px;
-	color :  #2C6700;
-	box-shadow: 10px 10px 5px #888888;
-}
 
 .left h3, .right h3 {
 	text-align: center;
