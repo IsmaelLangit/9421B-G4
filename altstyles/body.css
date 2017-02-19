@@ -1,16 +1,16 @@
 .banner {
 text-align : center;
 height : auto;
-background-color:  black;
-margin: 50px 100px 20px 200px;
+background-color: #323232;
+margin: 60px 100px 0px 200px;
 padding: 20px;
 box-shadow: 10px 10px 5px #888888;
 }
 
 .container, .content-top, .article {
 	background-color: white;
-	margin: 10px 200px;
-	padding: 50px;
+	margin: 50px 100px 0px 200px;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 .protect, .promote, .educate {
@@ -20,6 +20,7 @@ box-shadow: 10px 10px 5px #888888;
 
 .protect img, .promote img, .educate img {
 	height : 180px;
+
 }
 
 
