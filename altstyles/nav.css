@@ -17,6 +17,7 @@ nav li a,
 nav li a:hover,
 .dropdown:hover .dropbtn {
     background-color: lightgreen;
+    color : black;
 }
 
 nav li.dropdown {
@@ -49,7 +50,7 @@ nav .dropdown:hover .dropdown-content {
 }
 
 nav ul.nav {
-    height: 50px;
+    height: 45px;
     list-style-type: none;
     padding: 0;
     overflow: hidden;
@@ -59,9 +60,8 @@ nav ul.nav {
     
 .nav li {
     letter-spacing: 2px;
-    padding-left : 10px;
     padding-right :35px;
-    font-size: 22px;
+    font-size: 15px;
     float: right;
     text-transform: uppercase;
     font-weight: bold;
@@ -82,6 +82,7 @@ nav ul.nav {
     
 .nav li a:hover {
     background-color: lightgreen;
+    color : black;
 }
 
 nav ul.nav-fixed {
@@ -92,5 +93,5 @@ nav ul.nav-fixed {
 
 .logo {
     padding: 0px;
-    height : 50px;
+    height :50px;
 }
