@@ -1,9 +1,10 @@
 .banner {
 text-align : center;
 height : auto;
-background-color:  #e6ffe6;
-margin: 80px 100px 20px 250px;
+background-color:  black;
+margin: 80px 200px 20px 200px;
 padding: 20px;
+box-shadow: 10px 10px 5px #888888;
 }
 
 .container {
@@ -11,22 +12,16 @@ padding: 20px;
 	margin: 10px 200px;
 }
 
-
-.main-container {
-	padding: 0 50px;
-	height : auto;
-	margin-bottom: 10px;
-}
-
-.protect, .promote {
+.protect, .promote, .educate {
 	float: left;
-	padding-top: 20px;
+	clear: both;
 }
 
-.educate {
-	float: right;
-	padding-top: 35px;
+.protect img, .promote img, .educate img {
+	height : 180px;
 }
+
+
 .content-top {
 	clear :both;
 	padding :50px 50px 0 50px;
@@ -40,8 +35,6 @@ padding: 20px;
     padding: 50px 50px;
     line-height: 1.2;
 }
-
-
 
 .leftform, .rightform {
     width: 40%;
