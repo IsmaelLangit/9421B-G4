@@ -115,9 +115,10 @@ p, ul, li, input, textarea{
 }
 
 .content-index p{
-	background-color: #b3ffb3;
+	background-color:  #92CD00;
 	padding: 34px;
 	margin-bottom: 50px;
+	color :  #2C6700;
 }
 
 strong {
