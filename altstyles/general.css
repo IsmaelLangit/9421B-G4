@@ -114,6 +114,10 @@ p, ul, li, input, textarea{
 	color :  #2f3e0f;
 }
 
+.main-container p {
+	box-shadow: 10px 10px 5px #888888;
+}
+
 .content-index p{
 	background-color:  #92CD00;
 	padding: 34px;
